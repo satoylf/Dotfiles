@@ -1,0 +1,98 @@
+{
+  "layer": "top",
+  "position": "top",
+  "height": 30,
+  "spacing": 0,
+  "exclusive": true,
+  "gtk-layer-shell": true,
+  "passthrough": false,
+  "fixed-center": true,
+  "modules-left": ["custom/logo", "hyprland/workspaces"],
+  "modules-center": ["hyprland/window"],
+  "modules-right": ["memory", "cpu", "pulseaudio", "battery", "network", "clock", "tray"],
+
+  "tray": {
+    "show-passive-items": true,
+    "spacing": 10
+  },
+
+ "network": {
+        "format-wifi": "{icon} {essid}",
+        "format-disconnected": "󰤭  Disconnected",
+        "format-icons": ["󰤯 ","󰤟 ","󰤢 ","󰤥 ","󰤨 "],
+	      "tooltip-format-wifi": "{essid}",
+        "tooltip-format-disconnected": "Disconnected",
+	      "nospacing": 1,
+  },
+
+  "battery": {
+    "bat": "BAT1",
+    "adapter": "ADP0",
+    "interval": 1,
+    "states": {
+      "warning": 30,
+      "critical": 15
+    },
+    "max-length": 20,
+    "format": "{icon} {capacity}%",
+    "format-charging": " {capacity}%",
+    "format-plugged": "  {capacity}%",
+    "format-full": "  {capacity}%",
+    "format-icons": [" ", " ", " ", " ", " "]
+  },
+
+  "clock": {
+    // "format": "<span color='#6bfffd'> </span>{:%I:%M %p}",
+    "format": "  {:%d %b %y, %a %H:%M}",
+    "tooltip-format": "<big>{:%B %Y}</big>\n<tt><small>{calendar}</small></tt>"
+  },
+  "cpu": {
+    "format": "  {usage}%",
+    "tooltip": true,
+    "interval": 1
+  },
+
+  "memory": {
+    "format": "  {used:0.2f}G"
+  },
+
+  "pulseaudio": {
+    "format": "{icon} {volume}%",
+    "format-muted": "  muted",
+    "format-icons": {
+      "default": [" ", " ", " "]
+    },
+    "on-click": "pavucontrol"
+  },
+
+  "custom/logo": {
+    "format": "",
+    "tooltip": false
+  },
+
+  "custom/sep": {
+    "format": "|",
+    "tooltip": false
+  },
+
+  "custom/power": {
+    "tooltip": false,
+    "on-click": "wlogout -p layer-shell &",
+    "format": " "
+  },
+
+ "hyprland/workspaces": {
+    "disable-scroll": true,
+    "all-outputs": true,
+    "on-click": "activate",
+    "persistent-workspaces": {
+      "*": [1, 2, 3, 4, 5, 6]
+    },
+    "format": "{icon}",
+    "format-icons": {
+      "active": "", 
+      "default": "",
+      "empty": "" 
+    }
+  }
+}

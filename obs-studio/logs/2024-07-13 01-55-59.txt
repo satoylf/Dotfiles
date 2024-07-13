@@ -1,0 +1,1107 @@
+01:55:59.545: Platform: Wayland
+01:55:59.545: CPU Name: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+01:55:59.545: CPU Speed: 400.000MHz
+01:55:59.545: Physical Cores: 4, Logical Cores: 8
+01:55:59.545: Physical Memory: 23761MB Total, 19194MB Free
+01:55:59.545: Kernel Version: Linux 6.6.39_1
+01:55:59.546: Distribution: "Void" Unknown
+01:55:59.546: Desktop Environment: Hyprland
+01:55:59.546: Session Type: wayland
+01:55:59.548: Qt Version: 6.7.2 (runtime), 6.6.0 (compiled)
+01:55:59.548: Portable mode: false
+01:55:59.619: OBS 30.1.1 (linux)
+01:55:59.619: ---------------------------------
+01:55:59.619: ---------------------------------
+01:55:59.619: audio settings reset:
+01:55:59.619: 	samples per sec: 48000
+01:55:59.619: 	speakers:        2
+01:55:59.619: 	max buffering:   960 milliseconds
+01:55:59.619: 	buffering type:  dynamically increasing
+01:55:59.624: ---------------------------------
+01:55:59.624: Initializing OpenGL...
+01:55:59.624: Using EGL/Wayland
+01:55:59.654: Initialized EGL 1.5
+01:55:59.670: Loading up OpenGL on adapter Intel Mesa Intel(R) Xe Graphics (TGL GT2)
+01:55:59.670: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 24.1.3, shading language 4.60
+01:55:59.707: ---------------------------------
+01:55:59.707: video settings reset:
+01:55:59.707: 	base resolution:   1920x1080
+01:55:59.707: 	output resolution: 1920x1080
+01:55:59.707: 	downscale filter:  Bicubic
+01:55:59.707: 	fps:               48/1
+01:55:59.707: 	format:            NV12
+01:55:59.707: 	YUV mode:          Rec. 709/Partial
+01:55:59.707: NV12 texture support enabled
+01:55:59.707: P010 texture support not available
+01:55:59.714: Audio monitoring device:
+01:55:59.714: 	name: Padrão
+01:55:59.714: 	id: default
+01:55:59.714: ---------------------------------
+01:55:59.721: Failed to load 'en-US' text for module: 'decklink-captions.so'
+01:55:59.728: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+01:55:59.734: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+01:55:59.734: Failed to initialize module 'decklink.so'
+01:55:59.930: [pipewire] Available captures:
+01:55:59.930: [pipewire]     - Desktop capture
+01:55:59.930: [pipewire]     - Window capture
+01:55:59.947: v4l2loopback not installed, virtual camera disabled
+01:55:59.987: VAAPI: API version 1.21
+01:55:59.988: FFmpeg VAAPI H264 encoding supported
+01:55:59.988: FFmpeg VAAPI AV1 encoding not supported
+01:55:59.991: FFmpeg VAAPI HEVC encoding supported
+01:56:00.147: os_dlopen(libvlc.so.5->libvlc.so.5): libvlc.so.5: não é possível abrir arquivo compartilhado: Arquivo ou diretório inexistente
+01:56:00.147: 
+01:56:00.147: [vlc-video]: Couldn't find VLC installation, VLC video source disabled
+01:56:00.147: ---------------------------------
+01:56:00.147:   Loaded Modules:
+01:56:00.147:     vlc-video.so
+01:56:00.147:     text-freetype2.so
+01:56:00.147:     rtmp-services.so
+01:56:00.147:     obs-x264.so
+01:56:00.147:     obs-webrtc.so
+01:56:00.147:     obs-transitions.so
+01:56:00.147:     obs-qsv11.so
+01:56:00.147:     obs-outputs.so
+01:56:00.147:     obs-filters.so
+01:56:00.148:     obs-ffmpeg.so
+01:56:00.148:     linux-v4l2.so
+01:56:00.148:     linux-pulseaudio.so
+01:56:00.148:     linux-pipewire.so
+01:56:00.148:     linux-jack.so
+01:56:00.148:     linux-capture.so
+01:56:00.148:     linux-alsa.so
+01:56:00.148:     image-source.so
+01:56:00.148:     frontend-tools.so
+01:56:00.148:     decklink-output-ui.so
+01:56:00.148:     decklink-captions.so
+01:56:00.148: ---------------------------------
+01:56:00.148: ==== Startup complete ===============================================
+01:56:00.178: All scene data cleared
+01:56:00.178: ------------------------------------------------
+01:56:00.185: pulse-input: Server name: 'PulseAudio (on PipeWire 1.2.0) 15.0.0'
+01:56:00.185: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+01:56:00.185: pulse-input: Started recording from 'alsa_output.pci-0000_00_1f.3.analog-stereo.monitor' (default)
+01:56:00.185: [Loaded global audio device]: 'Áudio do desktop'
+01:56:00.186: pulse-input: Server name: 'PulseAudio (on PipeWire 1.2.0) 15.0.0'
+01:56:00.186: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+01:56:00.186: pulse-input: Started recording from 'alsa_input.pci-0000_00_1f.3.analog-stereo' (default)
+01:56:00.186: [Loaded global audio device]: 'Mic/Aux'
+01:56:00.187: PipeWire initialized
+01:56:00.189: Switched to scene 'Cena'
+01:56:00.189: ------------------------------------------------
+01:56:00.189: Loaded scenes:
+01:56:00.189: - scene 'Cena':
+01:56:00.189:     - source: 'Captura de Janela (PipeWire)' (pipewire-window-capture-source)
+01:56:00.189: ------------------------------------------------
+01:56:00.340: [pipewire] Screencast session created
+01:56:00.751: adding 21 milliseconds of audio buffering, total audio buffering is now 21 milliseconds (source: Áudio do desktop)
+01:56:00.751: 
+01:56:02.342: [pipewire] Asking for window
+01:56:02.345: [pipewire] window selected, setting up screencast
+01:56:02.352: [pipewire] Server version: 1.2.0
+01:56:02.352: [pipewire] Library version: 1.2.0
+01:56:02.352: [pipewire] Header version: 1.0.3
+01:56:02.352: [pipewire] Created stream 0x55d6a2571d70
+01:56:02.352: [pipewire] Stream 0x55d6a2571d70 state: "connecting" (error: none)
+01:56:02.352: [pipewire] Playing stream 0x55d6a2571d70
+01:56:02.353: [pipewire] Stream 0x55d6a2571d70 state: "paused" (error: none)
+01:56:02.378: [pipewire] Negotiated format:
+01:56:02.378: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+01:56:02.378: [pipewire]     Size: 1920x1080
+01:56:02.378: [pipewire]     Framerate: 0/1
+01:56:02.387: [pipewire] Stream 0x55d6a2571d70 state: "streaming" (error: none)
+01:56:04.442:   OpenType support missing for "Open Sans", script 11
+01:56:04.450:   OpenType support missing for "Helvetica", script 11
+01:56:04.460:   OpenType support missing for "Open Sans", script 12
+01:56:04.469:   OpenType support missing for "Helvetica", script 12
+01:56:04.469:   OpenType support missing for "DejaVu Sans", script 12
+01:56:04.469:   OpenType support missing for "Noto Sans", script 12
+01:56:04.470:   OpenType support missing for "Luxi Sans", script 12
+01:56:04.471:   OpenType support missing for "Nimbus Sans", script 12
+01:56:04.471:   OpenType support missing for "URW Gothic", script 12
+01:56:04.472:   OpenType support missing for "Nimbus Sans Narrow", script 12
+01:56:04.473:   OpenType support missing for "Cascadia Mono", script 12
+01:56:04.474:   OpenType support missing for "Cascadia Code", script 12
+01:56:04.475:   OpenType support missing for "CaskaydiaCove Nerd Font", script 12
+01:56:04.475:   OpenType support missing for "CaskaydiaCove Nerd Font Mono", script 12
+01:56:04.476:   OpenType support missing for "CaskaydiaCove Nerd Font Propo", script 12
+01:56:04.476:   OpenType support missing for "HeavyData Nerd Font", script 12
+01:56:04.477:   OpenType support missing for "HeavyData Nerd Font Propo", script 12
+01:56:04.477:   OpenType support missing for "ProggyClean CE Nerd Font", script 12
+01:56:04.478:   OpenType support missing for "ProggyClean CE Nerd Font Mono", script 12
+01:56:04.478:   OpenType support missing for "ProggyClean CE Nerd Font Propo", script 12
+01:56:04.479:   OpenType support missing for "ProggyClean Nerd Font", script 12
+01:56:04.479:   OpenType support missing for "ProggyClean Nerd Font Mono", script 12
+01:56:04.479:   OpenType support missing for "ProggyClean Nerd Font Propo", script 12
+01:56:04.480:   OpenType support missing for "ProggyCleanSZ Nerd Font", script 12
+01:56:04.480:   OpenType support missing for "ProggyCleanSZ Nerd Font Mono", script 12
+01:56:04.481:   OpenType support missing for "ProggyCleanSZ Nerd Font Propo", script 12
+01:56:04.481:   OpenType support missing for "Agave Nerd Font", script 12
+01:56:04.481:   OpenType support missing for "Agave Nerd Font Mono", script 12
+01:56:04.482:   OpenType support missing for "Agave Nerd Font Propo", script 12
+01:56:04.482:   OpenType support missing for "Agave", script 12
+01:56:04.483:   OpenType support missing for "Lekton Nerd Font", script 12
+01:56:04.483:   OpenType support missing for "Lekton Nerd Font Mono", script 12
+01:56:04.483:   OpenType support missing for "Lekton Nerd Font Propo", script 12
+01:56:04.484:   OpenType support missing for "Iosevka Nerd Font", script 12
+01:56:04.485:   OpenType support missing for "Iosevka Nerd Font Mono", script 12
+01:56:04.486:   OpenType support missing for "Iosevka Nerd Font Propo", script 12
+01:56:04.488:   OpenType support missing for "IosevkaTerm Nerd Font", script 12
+01:56:04.489:   OpenType support missing for "IosevkaTerm Nerd Font Mono", script 12
+01:56:04.491:   OpenType support missing for "IosevkaTerm Nerd Font Propo", script 12
+01:56:04.493:   OpenType support missing for "Iosevka Term Slab", script 12
+01:56:04.495:   OpenType support missing for "Iosevka", script 12
+01:56:04.496:   OpenType support missing for "Iosevka Term", script 12
+01:56:04.497:   OpenType support missing for "FiraCode Nerd Font", script 12
+01:56:04.497:   OpenType support missing for "FiraCode Nerd Font Mono", script 12
+01:56:04.498:   OpenType support missing for "FiraCode Nerd Font Propo", script 12
+01:56:04.499:   OpenType support missing for "Fira Code", script 12
+01:56:04.499:   OpenType support missing for "ProFont IIx Nerd Font", script 12
+01:56:04.500:   OpenType support missing for "ProFont IIx Nerd Font Mono", script 12
+01:56:04.500:   OpenType support missing for "ProFont IIx Nerd Font Propo", script 12
+01:56:04.501:   OpenType support missing for "FontAwesome", script 12
+01:56:04.502:   OpenType support missing for "FiraMono Nerd Font", script 12
+01:56:04.502:   OpenType support missing for "FiraMono Nerd Font Mono", script 12
+01:56:04.503:   OpenType support missing for "FiraMono Nerd Font Propo", script 12
+01:56:04.504:   OpenType support missing for "Fira Mono", script 12
+01:56:04.505:   OpenType support missing for "Nerd Font File Types", script 12
+01:56:04.505:   OpenType support missing for "Hack", script 12
+01:56:04.506:   OpenType support missing for "Hack Nerd Font", script 12
+01:56:04.506:   OpenType support missing for "Hack Nerd Font Mono", script 12
+01:56:04.507:   OpenType support missing for "Hack Nerd Font Propo", script 12
+01:56:04.509:   OpenType support missing for "Overpass Nerd Font", script 12
+01:56:04.510:   OpenType support missing for "Overpass Nerd Font Propo", script 12
+01:56:04.512:   OpenType support missing for "Overpass", script 12
+01:56:04.513:   OpenType support missing for "Inconsolata Nerd Font", script 12
+01:56:04.513:   OpenType support missing for "Inconsolata Nerd Font Mono", script 12
+01:56:04.514:   OpenType support missing for "Inconsolata Nerd Font Propo", script 12
+01:56:04.514:   OpenType support missing for "3270 Nerd Font", script 12
+01:56:04.515:   OpenType support missing for "3270 Nerd Font Mono", script 12
+01:56:04.515:   OpenType support missing for "3270 Nerd Font Propo", script 12
+01:56:04.516:   OpenType support missing for "RobotoMono Nerd Font", script 12
+01:56:04.516:   OpenType support missing for "RobotoMono Nerd Font Mono", script 12
+01:56:04.517:   OpenType support missing for "RobotoMono Nerd Font Propo", script 12
+01:56:04.518:   OpenType support missing for "Inconsolata", script 12
+01:56:04.519:   OpenType support missing for "IBM 3270 Condensed", script 12
+01:56:04.519:   OpenType support missing for "IBM 3270", script 12
+01:56:04.520:   OpenType support missing for "IBM 3270 Semi-Condensed", script 12
+01:56:04.521:   OpenType support missing for "Roboto Mono", script 12
+01:56:04.521:   OpenType support missing for "Octicons Nerd Font", script 12
+01:56:04.522:   OpenType support missing for "DejaVu Math TeX Gyre", script 12
+01:56:04.522:   OpenType support missing for "DejaVu Sans Mono", script 12
+01:56:04.522:   OpenType support missing for "DejaVu Serif", script 12
+01:56:04.522:   OpenType support missing for "DejaVuSansM Nerd Font", script 12
+01:56:04.523:   OpenType support missing for "DejaVuSansM Nerd Font Mono", script 12
+01:56:04.523:   OpenType support missing for "DejaVuSansM Nerd Font Propo", script 12
+01:56:04.524:   OpenType support missing for "JetBrains Mono", script 12
+01:56:04.525:   OpenType support missing for "JetBrains Mono NL", script 12
+01:56:04.525:   OpenType support missing for "JetBrainsMono Nerd Font", script 12
+01:56:04.526:   OpenType support missing for "JetBrainsMono Nerd Font Mono", script 12
+01:56:04.527:   OpenType support missing for "JetBrainsMono Nerd Font Propo", script 12
+01:56:04.528:   OpenType support missing for "JetBrainsMonoNL Nerd Font", script 12
+01:56:04.529:   OpenType support missing for "JetBrainsMonoNL Nerd Font Mono", script 12
+01:56:04.530:   OpenType support missing for "JetBrainsMonoNL Nerd Font Propo", script 12
+01:56:04.530:   OpenType support missing for "BlexMono Nerd Font", script 12
+01:56:04.531:   OpenType support missing for "BlexMono Nerd Font Mono", script 12
+01:56:04.532:   OpenType support missing for "BlexMono Nerd Font Propo", script 12
+01:56:04.532:   OpenType support missing for "ProFontWindows Nerd Font", script 12
+01:56:04.533:   OpenType support missing for "ProFontWindows Nerd Font Mono", script 12
+01:56:04.534:   OpenType support missing for "ProFontWindows Nerd Font Propo", script 12
+01:56:04.535:   OpenType support missing for "ProFontWindows", script 12
+01:56:04.536:   OpenType support missing for "Lilex", script 12
+01:56:04.536:   OpenType support missing for "Lilex Nerd Font", script 12
+01:56:04.537:   OpenType support missing for "Lilex Nerd Font Mono", script 12
+01:56:04.537:   OpenType support missing for "Lilex Nerd Font Propo", script 12
+01:56:04.538:   OpenType support missing for "Liberation Mono", script 12
+01:56:04.538:   OpenType support missing for "Liberation Sans", script 12
+01:56:04.539:   OpenType support missing for "Liberation Serif", script 12
+01:56:04.539:   OpenType support missing for "LiterationMono Nerd Font", script 12
+01:56:04.539:   OpenType support missing for "LiterationMono Nerd Font Mono", script 12
+01:56:04.540:   OpenType support missing for "LiterationMono Nerd Font Propo", script 12
+01:56:04.540:   OpenType support missing for "LiterationSans Nerd Font", script 12
+01:56:04.541:   OpenType support missing for "LiterationSans Nerd Font Propo", script 12
+01:56:04.541:   OpenType support missing for "LiterationSerif Nerd Font", script 12
+01:56:04.541:   OpenType support missing for "LiterationSerif Nerd Font Propo", script 12
+01:56:04.542:   OpenType support missing for "Source Code Pro", script 12
+01:56:04.543:   OpenType support missing for "SauceCodePro Nerd Font", script 12
+01:56:04.543:   OpenType support missing for "SauceCodePro Nerd Font Mono", script 12
+01:56:04.544:   OpenType support missing for "SauceCodePro Nerd Font Propo", script 12
+01:56:04.545:   OpenType support missing for "Hasklug Nerd Font", script 12
+01:56:04.546:   OpenType support missing for "Hasklug Nerd Font Mono", script 12
+01:56:04.547:   OpenType support missing for "Hasklug Nerd Font Propo", script 12
+01:56:04.548:   OpenType support missing for "Hasklig", script 12
+01:56:04.549:   OpenType support missing for "Meslo LG L for Powerline", script 12
+01:56:04.550:   OpenType support missing for "Meslo LG L DZ for Powerline", script 12
+01:56:04.552:   OpenType support missing for "Meslo LG M for Powerline", script 12
+01:56:04.553:   OpenType support missing for "Meslo LG M DZ for Powerline", script 12
+01:56:04.555:   OpenType support missing for "Meslo LG S for Powerline", script 12
+01:56:04.556:   OpenType support missing for "Meslo LG S DZ for Powerline", script 12
+01:56:04.557:   OpenType support missing for "Noto Sans Mono", script 12
+01:56:04.558:   OpenType support missing for "Noto Serif", script 12
+01:56:04.559:   OpenType support missing for "GoMono Nerd Font", script 12
+01:56:04.559:   OpenType support missing for "GoMono Nerd Font Mono", script 12
+01:56:04.560:   OpenType support missing for "GoMono Nerd Font Propo", script 12
+01:56:04.560:   OpenType support missing for "Go Mono", script 12
+01:56:04.561:   OpenType support missing for "IBM Plex Mono", script 12
+01:56:04.562:   OpenType support missing for "OpenDyslexicAlt Nerd Font", script 12
+01:56:04.564:   OpenType support missing for "OpenDyslexicAlt Nerd Font Propo", script 12
+01:56:04.565:   OpenType support missing for "OpenDyslexic Nerd Font", script 12
+01:56:04.566:   OpenType support missing for "OpenDyslexic Nerd Font Propo", script 12
+01:56:04.567:   OpenType support missing for "OpenDyslexicAlta", script 12
+01:56:04.568:   OpenType support missing for "OpenDyslexic", script 12
+01:56:04.568:   OpenType support missing for "D050000L", script 12
+01:56:04.568:   OpenType support missing for "Standard Symbols PS", script 12
+01:56:04.570:   OpenType support missing for "CodeNewRoman Nerd Font", script 12
+01:56:04.571:   OpenType support missing for "CodeNewRoman Nerd Font Mono", script 12
+01:56:04.572:   OpenType support missing for "CodeNewRoman Nerd Font Propo", script 12
+01:56:04.573:   OpenType support missing for "Hurmit Nerd Font", script 12
+01:56:04.575:   OpenType support missing for "Hurmit Nerd Font Mono", script 12
+01:56:04.576:   OpenType support missing for "Hurmit Nerd Font Propo", script 12
+01:56:04.577:   OpenType support missing for "NotoSans Nerd Font", script 12
+01:56:04.578:   OpenType support missing for "NotoSans Nerd Font Propo", script 12
+01:56:04.579:   OpenType support missing for "NotoSansM Nerd Font", script 12
+01:56:04.579:   OpenType support missing for "NotoSansM Nerd Font Mono", script 12
+01:56:04.580:   OpenType support missing for "NotoSansM Nerd Font Propo", script 12
+01:56:04.581:   OpenType support missing for "NotoSerif Nerd Font", script 12
+01:56:04.581:   OpenType support missing for "NotoSerif Nerd Font Propo", script 12
+01:56:04.582:   OpenType support missing for "iMWritingDuo Nerd Font", script 12
+01:56:04.583:   OpenType support missing for "iMWritingDuo Nerd Font Propo", script 12
+01:56:04.583:   OpenType support missing for "iMWritingMono Nerd Font", script 12
+01:56:04.584:   OpenType support missing for "iMWritingMono Nerd Font Mono", script 12
+01:56:04.585:   OpenType support missing for "iMWritingMono Nerd Font Propo", script 12
+01:56:04.585:   OpenType support missing for "iMWritingQuat Nerd Font", script 12
+01:56:04.586:   OpenType support missing for "iMWritingQuat Nerd Font Propo", script 12
+01:56:04.587:   OpenType support missing for "Bitstream Vera Sans Mono", script 12
+01:56:04.587:   OpenType support missing for "Code New Roman", script 12
+01:56:04.588:   OpenType support missing for "Hermit", script 12
+01:56:04.589:   OpenType support missing for "iA Writer Duo S", script 12
+01:56:04.590:   OpenType support missing for "iA Writer Mono S", script 12
+01:56:04.591:   OpenType support missing for "iA Writer Quattro S", script 12
+01:56:04.592:   OpenType support missing for "FantasqueSansM Nerd Font", script 12
+01:56:04.593:   OpenType support missing for "FantasqueSansM Nerd Font Mono", script 12
+01:56:04.593:   OpenType support missing for "FantasqueSansM Nerd Font Propo", script 12
+01:56:04.595:   OpenType support missing for "Fantasque Sans Mono", script 12
+01:56:04.596:   OpenType support missing for "VictorMono Nerd Font", script 12
+01:56:04.597:   OpenType support missing for "VictorMono Nerd Font Mono", script 12
+01:56:04.598:   OpenType support missing for "VictorMono Nerd Font Propo", script 12
+01:56:04.599:   OpenType support missing for "Victor Mono", script 12
+01:56:04.600:   OpenType support missing for "Arimo", script 12
+01:56:04.600:   OpenType support missing for "Arimo Nerd Font", script 12
+01:56:04.601:   OpenType support missing for "Arimo Nerd Font Propo", script 12
+01:56:04.602:   OpenType support missing for "0xProto", script 12
+01:56:04.602:   OpenType support missing for "ComicShannsMono Nerd Font", script 12
+01:56:04.603:   OpenType support missing for "ComicShannsMono Nerd Font Mono", script 12
+01:56:04.603:   OpenType support missing for "ComicShannsMono Nerd Font Propo", script 12
+01:56:04.604:   OpenType support missing for "Tinos Nerd Font", script 12
+01:56:04.605:   OpenType support missing for "Tinos Nerd Font Propo", script 12
+01:56:04.606:   OpenType support missing for "Tinos", script 12
+01:56:04.606:   OpenType support missing for "Cousine", script 12
+01:56:04.607:   OpenType support missing for "Cousine Nerd Font", script 12
+01:56:04.607:   OpenType support missing for "Cousine Nerd Font Mono", script 12
+01:56:04.608:   OpenType support missing for "Cousine Nerd Font Propo", script 12
+01:56:04.609:   OpenType support missing for "MesloLGL Nerd Font", script 12
+01:56:04.609:   OpenType support missing for "MesloLGL Nerd Font Mono", script 12
+01:56:04.610:   OpenType support missing for "MesloLGL Nerd Font Propo", script 12
+01:56:04.611:   OpenType support missing for "MesloLGLDZ Nerd Font", script 12
+01:56:04.612:   OpenType support missing for "MesloLGLDZ Nerd Font Mono", script 12
+01:56:04.614:   OpenType support missing for "MesloLGLDZ Nerd Font Propo", script 12
+01:56:04.615:   OpenType support missing for "MesloLGM Nerd Font", script 12
+01:56:04.616:   OpenType support missing for "MesloLGM Nerd Font Mono", script 12
+01:56:04.617:   OpenType support missing for "MesloLGM Nerd Font Propo", script 12
+01:56:04.619:   OpenType support missing for "MesloLGMDZ Nerd Font", script 12
+01:56:04.619:   OpenType support missing for "MesloLGMDZ Nerd Font Mono", script 12
+01:56:04.620:   OpenType support missing for "MesloLGMDZ Nerd Font Propo", script 12
+01:56:04.621:   OpenType support missing for "MesloLGS Nerd Font", script 12
+01:56:04.622:   OpenType support missing for "MesloLGS Nerd Font Mono", script 12
+01:56:04.623:   OpenType support missing for "MesloLGS Nerd Font Propo", script 12
+01:56:04.623:   OpenType support missing for "MesloLGSDZ Nerd Font", script 12
+01:56:04.624:   OpenType support missing for "MesloLGSDZ Nerd Font Mono", script 12
+01:56:04.625:   OpenType support missing for "MesloLGSDZ Nerd Font Propo", script 12
+01:56:04.625:   OpenType support missing for "Luxi Mono", script 12
+01:56:04.626:   OpenType support missing for "Luxi Serif", script 12
+01:56:04.626:   OpenType support missing for "DaddyTimeMono Nerd Font", script 12
+01:56:04.627:   OpenType support missing for "DaddyTimeMono Nerd Font Mono", script 12
+01:56:04.627:   OpenType support missing for "DaddyTimeMono Nerd Font Propo", script 12
+01:56:04.628:   OpenType support missing for "DaddyTimeMono", script 12
+01:56:04.628:   OpenType support missing for "IntelOne Mono", script 12
+01:56:04.629:   OpenType support missing for "BitstromWera Nerd Font", script 12
+01:56:04.629:   OpenType support missing for "BitstromWera Nerd Font Mono", script 12
+01:56:04.630:   OpenType support missing for "BitstromWera Nerd Font Propo", script 12
+01:56:04.630:   OpenType support missing for "font-logos", script 12
+01:56:04.631:   OpenType support missing for "Weather Icons", script 12
+01:56:04.632:   OpenType support missing for "InconsolataGo Nerd Font", script 12
+01:56:04.632:   OpenType support missing for "InconsolataGo Nerd Font Mono", script 12
+01:56:04.633:   OpenType support missing for "InconsolataGo Nerd Font Propo", script 12
+01:56:04.634:   OpenType support missing for "InconsolataGo", script 12
+01:56:04.635:   OpenType support missing for "M+1Code Nerd Font", script 12
+01:56:04.636:   OpenType support missing for "M+1Code Nerd Font Mono", script 12
+01:56:04.637:   OpenType support missing for "M+1Code Nerd Font Propo", script 12
+01:56:04.638:   OpenType support missing for "Mononoki Nerd Font", script 12
+01:56:04.639:   OpenType support missing for "Mononoki Nerd Font Mono", script 12
+01:56:04.640:   OpenType support missing for "Mononoki Nerd Font Propo", script 12
+01:56:04.641:   OpenType support missing for "M PLUS 1 Code", script 12
+01:56:04.642:   OpenType support missing for "mononoki", script 12
+01:56:04.643:   OpenType support missing for "M PLUS Code Latin 50", script 12
+01:56:04.643:   OpenType support missing for "M+CodeLat Nerd Font", script 12
+01:56:04.644:   OpenType support missing for "M+CodeLat Nerd Font Mono", script 12
+01:56:04.645:   OpenType support missing for "M+CodeLat Nerd Font Propo", script 12
+01:56:04.645:   OpenType support missing for "M+CodeLat50 Nerd Font", script 12
+01:56:04.646:   OpenType support missing for "M+CodeLat50 Nerd Font Mono", script 12
+01:56:04.646:   OpenType support missing for "M+CodeLat50 Nerd Font Propo", script 12
+01:56:04.647:   OpenType support missing for "Share Tech Mono", script 12
+01:56:04.648:   OpenType support missing for "ShureTechMono Nerd Font", script 12
+01:56:04.649:   OpenType support missing for "ShureTechMono Nerd Font Mono", script 12
+01:56:04.649:   OpenType support missing for "ShureTechMono Nerd Font Propo", script 12
+01:56:04.650:   OpenType support missing for "AnonymicePro Nerd Font", script 12
+01:56:04.650:   OpenType support missing for "AnonymicePro Nerd Font Mono", script 12
+01:56:04.651:   OpenType support missing for "AnonymicePro Nerd Font Propo", script 12
+01:56:04.651:   OpenType support missing for "D2Coding ligature", script 12
+01:56:04.653:   OpenType support missing for "OverpassM Nerd Font", script 12
+01:56:04.655:   OpenType support missing for "OverpassM Nerd Font Mono", script 12
+01:56:04.657:   OpenType support missing for "OverpassM Nerd Font Propo", script 12
+01:56:04.659:   OpenType support missing for "Anonymous Pro", script 12
+01:56:04.660:   OpenType support missing for "Geist Mono", script 12
+01:56:04.661:   OpenType support missing for "Overpass Mono", script 12
+01:56:04.662:   OpenType support missing for "M PLUS 1", script 12
+01:56:04.663:   OpenType support missing for "M PLUS 2", script 12
+01:56:04.664:   OpenType support missing for "ProggyCleanTT CE", script 12
+01:56:04.665:   OpenType support missing for "M+1 Nerd Font", script 12
+01:56:04.666:   OpenType support missing for "M+1 Nerd Font Propo", script 12
+01:56:04.666:   OpenType support missing for "M+2 Nerd Font", script 12
+01:56:04.667:   OpenType support missing for "M+2 Nerd Font Propo", script 12
+01:56:04.668:   OpenType support missing for "OpenDyslexicM Nerd Font", script 12
+01:56:04.670:   OpenType support missing for "OpenDyslexicM Nerd Font Mono", script 12
+01:56:04.671:   OpenType support missing for "OpenDyslexicM Nerd Font Propo", script 12
+01:56:04.672:   OpenType support missing for "OpenDyslexicMono", script 12
+01:56:04.673:   OpenType support missing for "C059", script 12
+01:56:04.673:   OpenType support missing for "Nimbus Mono PS", script 12
+01:56:04.674:   OpenType support missing for "Nimbus Roman", script 12
+01:56:04.674:   OpenType support missing for "P052", script 12
+01:56:04.675:   OpenType support missing for "URW Bookman", script 12
+01:56:04.676:   OpenType support missing for "BigBlueTermPlus Nerd Font", script 12
+01:56:04.676:   OpenType support missing for "BigBlueTermPlus Nerd Font Mono", script 12
+01:56:04.677:   OpenType support missing for "BigBlueTermPlus Nerd Font Propo", script 12
+01:56:04.678:   OpenType support missing for "DroidSansM Nerd Font", script 12
+01:56:04.678:   OpenType support missing for "DroidSansM Nerd Font Mono", script 12
+01:56:04.679:   OpenType support missing for "DroidSansM Nerd Font Propo", script 12
+01:56:04.680:   OpenType support missing for "Monofur Nerd Font", script 12
+01:56:04.681:   OpenType support missing for "Monofur Nerd Font Mono", script 12
+01:56:04.682:   OpenType support missing for "Monofur Nerd Font Propo", script 12
+01:56:04.683:   OpenType support missing for "NotoMono Nerd Font", script 12
+01:56:04.683:   OpenType support missing for "NotoMono Nerd Font Mono", script 12
+01:56:04.684:   OpenType support missing for "NotoMono Nerd Font Propo", script 12
+01:56:04.685:   OpenType support missing for "SpaceMono Nerd Font", script 12
+01:56:04.686:   OpenType support missing for "SpaceMono Nerd Font Mono", script 12
+01:56:04.687:   OpenType support missing for "SpaceMono Nerd Font Propo", script 12
+01:56:04.687:   OpenType support missing for "BigBlue TerminalPlus", script 12
+01:56:04.689:   OpenType support missing for "CommitMono", script 12
+01:56:04.689:   OpenType support missing for "Droid Sans Mono for Powerline", script 12
+01:56:04.690:   OpenType support missing for "Heavy Data", script 12
+01:56:04.691:   OpenType support missing for "Lekton", script 12
+01:56:04.692:   OpenType support missing for "Martian Mono", script 12
+01:56:04.693:   OpenType support missing for "Monaspace Argon", script 12
+01:56:04.694:   OpenType support missing for "Monaspace Krypton", script 12
+01:56:04.695:   OpenType support missing for "Monaspace Neon", script 12
+01:56:04.697:   OpenType support missing for "Monaspace Radon", script 12
+01:56:04.698:   OpenType support missing for "Monaspace Xenon", script 12
+01:56:04.700:   OpenType support missing for "monofur for Powerline", script 12
+01:56:04.701:   OpenType support missing for "Noto Mono", script 12
+01:56:04.854:   OpenType support missing for "Open Sans", script 16
+01:56:04.863:   OpenType support missing for "Helvetica", script 16
+01:56:04.863:   OpenType support missing for "DejaVu Sans", script 16
+01:56:04.863:   OpenType support missing for "Noto Sans", script 16
+01:56:04.864:   OpenType support missing for "Luxi Sans", script 16
+01:56:04.865:   OpenType support missing for "Nimbus Sans", script 16
+01:56:04.865:   OpenType support missing for "URW Gothic", script 16
+01:56:04.866:   OpenType support missing for "Nimbus Sans Narrow", script 16
+01:56:04.867:   OpenType support missing for "Cascadia Mono", script 16
+01:56:04.868:   OpenType support missing for "Cascadia Code", script 16
+01:56:04.869:   OpenType support missing for "CaskaydiaCove Nerd Font", script 16
+01:56:04.869:   OpenType support missing for "CaskaydiaCove Nerd Font Mono", script 16
+01:56:04.870:   OpenType support missing for "CaskaydiaCove Nerd Font Propo", script 16
+01:56:04.870:   OpenType support missing for "HeavyData Nerd Font", script 16
+01:56:04.870:   OpenType support missing for "HeavyData Nerd Font Propo", script 16
+01:56:04.871:   OpenType support missing for "ProggyClean CE Nerd Font", script 16
+01:56:04.872:   OpenType support missing for "ProggyClean CE Nerd Font Mono", script 16
+01:56:04.872:   OpenType support missing for "ProggyClean CE Nerd Font Propo", script 16
+01:56:04.873:   OpenType support missing for "ProggyClean Nerd Font", script 16
+01:56:04.873:   OpenType support missing for "ProggyClean Nerd Font Mono", script 16
+01:56:04.873:   OpenType support missing for "ProggyClean Nerd Font Propo", script 16
+01:56:04.874:   OpenType support missing for "ProggyCleanSZ Nerd Font", script 16
+01:56:04.874:   OpenType support missing for "ProggyCleanSZ Nerd Font Mono", script 16
+01:56:04.875:   OpenType support missing for "ProggyCleanSZ Nerd Font Propo", script 16
+01:56:04.875:   OpenType support missing for "Agave Nerd Font", script 16
+01:56:04.875:   OpenType support missing for "Agave Nerd Font Mono", script 16
+01:56:04.876:   OpenType support missing for "Agave Nerd Font Propo", script 16
+01:56:04.876:   OpenType support missing for "Agave", script 16
+01:56:04.877:   OpenType support missing for "Lekton Nerd Font", script 16
+01:56:04.877:   OpenType support missing for "Lekton Nerd Font Mono", script 16
+01:56:04.877:   OpenType support missing for "Lekton Nerd Font Propo", script 16
+01:56:04.878:   OpenType support missing for "Iosevka Nerd Font", script 16
+01:56:04.878:   OpenType support missing for "Iosevka Nerd Font Mono", script 16
+01:56:04.879:   OpenType support missing for "Iosevka Nerd Font Propo", script 16
+01:56:04.879:   OpenType support missing for "IosevkaTerm Nerd Font", script 16
+01:56:04.880:   OpenType support missing for "IosevkaTerm Nerd Font Mono", script 16
+01:56:04.880:   OpenType support missing for "IosevkaTerm Nerd Font Propo", script 16
+01:56:04.881:   OpenType support missing for "Iosevka Term Slab", script 16
+01:56:04.882:   OpenType support missing for "Iosevka", script 16
+01:56:04.884:   OpenType support missing for "Iosevka Term", script 16
+01:56:04.884:   OpenType support missing for "FiraCode Nerd Font", script 16
+01:56:04.885:   OpenType support missing for "FiraCode Nerd Font Mono", script 16
+01:56:04.885:   OpenType support missing for "FiraCode Nerd Font Propo", script 16
+01:56:04.887:   OpenType support missing for "Fira Code", script 16
+01:56:04.887:   OpenType support missing for "ProFont IIx Nerd Font", script 16
+01:56:04.888:   OpenType support missing for "ProFont IIx Nerd Font Mono", script 16
+01:56:04.889:   OpenType support missing for "ProFont IIx Nerd Font Propo", script 16
+01:56:04.890:   OpenType support missing for "FontAwesome", script 16
+01:56:04.890:   OpenType support missing for "FiraMono Nerd Font", script 16
+01:56:04.891:   OpenType support missing for "FiraMono Nerd Font Mono", script 16
+01:56:04.891:   OpenType support missing for "FiraMono Nerd Font Propo", script 16
+01:56:04.892:   OpenType support missing for "Fira Mono", script 16
+01:56:04.893:   OpenType support missing for "Nerd Font File Types", script 16
+01:56:04.893:   OpenType support missing for "Hack", script 16
+01:56:04.894:   OpenType support missing for "Hack Nerd Font", script 16
+01:56:04.894:   OpenType support missing for "Hack Nerd Font Mono", script 16
+01:56:04.895:   OpenType support missing for "Hack Nerd Font Propo", script 16
+01:56:04.895:   OpenType support missing for "Overpass Nerd Font", script 16
+01:56:04.896:   OpenType support missing for "Overpass Nerd Font Propo", script 16
+01:56:04.897:   OpenType support missing for "Overpass", script 16
+01:56:04.897:   OpenType support missing for "Inconsolata Nerd Font", script 16
+01:56:04.898:   OpenType support missing for "Inconsolata Nerd Font Mono", script 16
+01:56:04.898:   OpenType support missing for "Inconsolata Nerd Font Propo", script 16
+01:56:04.899:   OpenType support missing for "3270 Nerd Font", script 16
+01:56:04.899:   OpenType support missing for "3270 Nerd Font Mono", script 16
+01:56:04.899:   OpenType support missing for "3270 Nerd Font Propo", script 16
+01:56:04.900:   OpenType support missing for "RobotoMono Nerd Font", script 16
+01:56:04.900:   OpenType support missing for "RobotoMono Nerd Font Mono", script 16
+01:56:04.901:   OpenType support missing for "RobotoMono Nerd Font Propo", script 16
+01:56:04.902:   OpenType support missing for "Inconsolata", script 16
+01:56:04.902:   OpenType support missing for "IBM 3270 Condensed", script 16
+01:56:04.903:   OpenType support missing for "IBM 3270", script 16
+01:56:04.904:   OpenType support missing for "IBM 3270 Semi-Condensed", script 16
+01:56:04.906:   OpenType support missing for "Roboto Mono", script 16
+01:56:04.907:   OpenType support missing for "Octicons Nerd Font", script 16
+01:56:04.907:   OpenType support missing for "DejaVu Math TeX Gyre", script 16
+01:56:04.908:   OpenType support missing for "DejaVu Sans Mono", script 16
+01:56:04.908:   OpenType support missing for "DejaVu Serif", script 16
+01:56:04.909:   OpenType support missing for "DejaVuSansM Nerd Font", script 16
+01:56:04.909:   OpenType support missing for "DejaVuSansM Nerd Font Mono", script 16
+01:56:04.910:   OpenType support missing for "DejaVuSansM Nerd Font Propo", script 16
+01:56:04.911:   OpenType support missing for "JetBrains Mono", script 16
+01:56:04.912:   OpenType support missing for "JetBrains Mono NL", script 16
+01:56:04.913:   OpenType support missing for "JetBrainsMono Nerd Font", script 16
+01:56:04.913:   OpenType support missing for "JetBrainsMono Nerd Font Mono", script 16
+01:56:04.914:   OpenType support missing for "JetBrainsMono Nerd Font Propo", script 16
+01:56:04.915:   OpenType support missing for "JetBrainsMonoNL Nerd Font", script 16
+01:56:04.915:   OpenType support missing for "JetBrainsMonoNL Nerd Font Mono", script 16
+01:56:04.916:   OpenType support missing for "JetBrainsMonoNL Nerd Font Propo", script 16
+01:56:04.916:   OpenType support missing for "BlexMono Nerd Font", script 16
+01:56:04.917:   OpenType support missing for "BlexMono Nerd Font Mono", script 16
+01:56:04.917:   OpenType support missing for "BlexMono Nerd Font Propo", script 16
+01:56:04.918:   OpenType support missing for "ProFontWindows Nerd Font", script 16
+01:56:04.918:   OpenType support missing for "ProFontWindows Nerd Font Mono", script 16
+01:56:04.919:   OpenType support missing for "ProFontWindows Nerd Font Propo", script 16
+01:56:04.920:   OpenType support missing for "ProFontWindows", script 16
+01:56:04.920:   OpenType support missing for "Lilex", script 16
+01:56:04.921:   OpenType support missing for "Lilex Nerd Font", script 16
+01:56:04.921:   OpenType support missing for "Lilex Nerd Font Mono", script 16
+01:56:04.921:   OpenType support missing for "Lilex Nerd Font Propo", script 16
+01:56:04.922:   OpenType support missing for "Liberation Mono", script 16
+01:56:04.922:   OpenType support missing for "Liberation Sans", script 16
+01:56:04.923:   OpenType support missing for "Liberation Serif", script 16
+01:56:04.923:   OpenType support missing for "LiterationMono Nerd Font", script 16
+01:56:04.924:   OpenType support missing for "LiterationMono Nerd Font Mono", script 16
+01:56:04.924:   OpenType support missing for "LiterationMono Nerd Font Propo", script 16
+01:56:04.925:   OpenType support missing for "LiterationSans Nerd Font", script 16
+01:56:04.925:   OpenType support missing for "LiterationSans Nerd Font Propo", script 16
+01:56:04.926:   OpenType support missing for "LiterationSerif Nerd Font", script 16
+01:56:04.926:   OpenType support missing for "LiterationSerif Nerd Font Propo", script 16
+01:56:04.927:   OpenType support missing for "Source Code Pro", script 16
+01:56:04.928:   OpenType support missing for "SauceCodePro Nerd Font", script 16
+01:56:04.928:   OpenType support missing for "SauceCodePro Nerd Font Mono", script 16
+01:56:04.929:   OpenType support missing for "SauceCodePro Nerd Font Propo", script 16
+01:56:04.930:   OpenType support missing for "Hasklug Nerd Font", script 16
+01:56:04.931:   OpenType support missing for "Hasklug Nerd Font Mono", script 16
+01:56:04.931:   OpenType support missing for "Hasklug Nerd Font Propo", script 16
+01:56:04.932:   OpenType support missing for "Hasklig", script 16
+01:56:04.933:   OpenType support missing for "Meslo LG L for Powerline", script 16
+01:56:04.934:   OpenType support missing for "Meslo LG L DZ for Powerline", script 16
+01:56:04.935:   OpenType support missing for "Meslo LG M for Powerline", script 16
+01:56:04.936:   OpenType support missing for "Meslo LG M DZ for Powerline", script 16
+01:56:04.937:   OpenType support missing for "Meslo LG S for Powerline", script 16
+01:56:04.938:   OpenType support missing for "Meslo LG S DZ for Powerline", script 16
+01:56:04.938:   OpenType support missing for "Noto Sans Mono", script 16
+01:56:04.939:   OpenType support missing for "Noto Serif", script 16
+01:56:04.940:   OpenType support missing for "GoMono Nerd Font", script 16
+01:56:04.940:   OpenType support missing for "GoMono Nerd Font Mono", script 16
+01:56:04.940:   OpenType support missing for "GoMono Nerd Font Propo", script 16
+01:56:04.941:   OpenType support missing for "Go Mono", script 16
+01:56:04.942:   OpenType support missing for "IBM Plex Mono", script 16
+01:56:04.942:   OpenType support missing for "OpenDyslexicAlt Nerd Font", script 16
+01:56:04.943:   OpenType support missing for "OpenDyslexicAlt Nerd Font Propo", script 16
+01:56:04.944:   OpenType support missing for "OpenDyslexic Nerd Font", script 16
+01:56:04.946:   OpenType support missing for "OpenDyslexic Nerd Font Propo", script 16
+01:56:04.947:   OpenType support missing for "OpenDyslexicAlta", script 16
+01:56:04.949:   OpenType support missing for "OpenDyslexic", script 16
+01:56:04.949:   OpenType support missing for "D050000L", script 16
+01:56:04.950:   OpenType support missing for "Standard Symbols PS", script 16
+01:56:04.951:   OpenType support missing for "CodeNewRoman Nerd Font", script 16
+01:56:04.952:   OpenType support missing for "CodeNewRoman Nerd Font Mono", script 16
+01:56:04.952:   OpenType support missing for "CodeNewRoman Nerd Font Propo", script 16
+01:56:04.953:   OpenType support missing for "Hurmit Nerd Font", script 16
+01:56:04.954:   OpenType support missing for "Hurmit Nerd Font Mono", script 16
+01:56:04.955:   OpenType support missing for "Hurmit Nerd Font Propo", script 16
+01:56:04.955:   OpenType support missing for "NotoSans Nerd Font", script 16
+01:56:04.956:   OpenType support missing for "NotoSans Nerd Font Propo", script 16
+01:56:04.957:   OpenType support missing for "NotoSansM Nerd Font", script 16
+01:56:04.957:   OpenType support missing for "NotoSansM Nerd Font Mono", script 16
+01:56:04.958:   OpenType support missing for "NotoSansM Nerd Font Propo", script 16
+01:56:04.959:   OpenType support missing for "NotoSerif Nerd Font", script 16
+01:56:04.959:   OpenType support missing for "NotoSerif Nerd Font Propo", script 16
+01:56:04.960:   OpenType support missing for "iMWritingDuo Nerd Font", script 16
+01:56:04.961:   OpenType support missing for "iMWritingDuo Nerd Font Propo", script 16
+01:56:04.961:   OpenType support missing for "iMWritingMono Nerd Font", script 16
+01:56:04.962:   OpenType support missing for "iMWritingMono Nerd Font Mono", script 16
+01:56:04.963:   OpenType support missing for "iMWritingMono Nerd Font Propo", script 16
+01:56:04.963:   OpenType support missing for "iMWritingQuat Nerd Font", script 16
+01:56:04.964:   OpenType support missing for "iMWritingQuat Nerd Font Propo", script 16
+01:56:04.965:   OpenType support missing for "Bitstream Vera Sans Mono", script 16
+01:56:04.966:   OpenType support missing for "Code New Roman", script 16
+01:56:04.967:   OpenType support missing for "Hermit", script 16
+01:56:04.969:   OpenType support missing for "iA Writer Duo S", script 16
+01:56:04.970:   OpenType support missing for "iA Writer Mono S", script 16
+01:56:04.972:   OpenType support missing for "iA Writer Quattro S", script 16
+01:56:04.973:   OpenType support missing for "FantasqueSansM Nerd Font", script 16
+01:56:04.973:   OpenType support missing for "FantasqueSansM Nerd Font Mono", script 16
+01:56:04.974:   OpenType support missing for "FantasqueSansM Nerd Font Propo", script 16
+01:56:04.975:   OpenType support missing for "Fantasque Sans Mono", script 16
+01:56:04.976:   OpenType support missing for "VictorMono Nerd Font", script 16
+01:56:04.976:   OpenType support missing for "VictorMono Nerd Font Mono", script 16
+01:56:04.977:   OpenType support missing for "VictorMono Nerd Font Propo", script 16
+01:56:04.978:   OpenType support missing for "Victor Mono", script 16
+01:56:04.979:   OpenType support missing for "Arimo", script 16
+01:56:04.979:   OpenType support missing for "Arimo Nerd Font", script 16
+01:56:04.980:   OpenType support missing for "Arimo Nerd Font Propo", script 16
+01:56:04.980:   OpenType support missing for "0xProto", script 16
+01:56:04.981:   OpenType support missing for "ComicShannsMono Nerd Font", script 16
+01:56:04.982:   OpenType support missing for "ComicShannsMono Nerd Font Mono", script 16
+01:56:04.982:   OpenType support missing for "ComicShannsMono Nerd Font Propo", script 16
+01:56:04.983:   OpenType support missing for "Tinos Nerd Font", script 16
+01:56:04.984:   OpenType support missing for "Tinos Nerd Font Propo", script 16
+01:56:04.984:   OpenType support missing for "Tinos", script 16
+01:56:04.985:   OpenType support missing for "Cousine", script 16
+01:56:04.986:   OpenType support missing for "Cousine Nerd Font", script 16
+01:56:04.987:   OpenType support missing for "Cousine Nerd Font Mono", script 16
+01:56:04.987:   OpenType support missing for "Cousine Nerd Font Propo", script 16
+01:56:04.988:   OpenType support missing for "MesloLGL Nerd Font", script 16
+01:56:04.989:   OpenType support missing for "MesloLGL Nerd Font Mono", script 16
+01:56:04.991:   OpenType support missing for "MesloLGL Nerd Font Propo", script 16
+01:56:04.992:   OpenType support missing for "MesloLGLDZ Nerd Font", script 16
+01:56:04.993:   OpenType support missing for "MesloLGLDZ Nerd Font Mono", script 16
+01:56:04.994:   OpenType support missing for "MesloLGLDZ Nerd Font Propo", script 16
+01:56:04.995:   OpenType support missing for "MesloLGM Nerd Font", script 16
+01:56:04.996:   OpenType support missing for "MesloLGM Nerd Font Mono", script 16
+01:56:04.996:   OpenType support missing for "MesloLGM Nerd Font Propo", script 16
+01:56:04.997:   OpenType support missing for "MesloLGMDZ Nerd Font", script 16
+01:56:04.998:   OpenType support missing for "MesloLGMDZ Nerd Font Mono", script 16
+01:56:04.998:   OpenType support missing for "MesloLGMDZ Nerd Font Propo", script 16
+01:56:04.999:   OpenType support missing for "MesloLGS Nerd Font", script 16
+01:56:05.000:   OpenType support missing for "MesloLGS Nerd Font Mono", script 16
+01:56:05.001:   OpenType support missing for "MesloLGS Nerd Font Propo", script 16
+01:56:05.001:   OpenType support missing for "MesloLGSDZ Nerd Font", script 16
+01:56:05.002:   OpenType support missing for "MesloLGSDZ Nerd Font Mono", script 16
+01:56:05.003:   OpenType support missing for "MesloLGSDZ Nerd Font Propo", script 16
+01:56:05.003:   OpenType support missing for "Luxi Mono", script 16
+01:56:05.004:   OpenType support missing for "Luxi Serif", script 16
+01:56:05.004:   OpenType support missing for "DaddyTimeMono Nerd Font", script 16
+01:56:05.005:   OpenType support missing for "DaddyTimeMono Nerd Font Mono", script 16
+01:56:05.005:   OpenType support missing for "DaddyTimeMono Nerd Font Propo", script 16
+01:56:05.006:   OpenType support missing for "DaddyTimeMono", script 16
+01:56:05.007:   OpenType support missing for "IntelOne Mono", script 16
+01:56:05.007:   OpenType support missing for "BitstromWera Nerd Font", script 16
+01:56:05.008:   OpenType support missing for "BitstromWera Nerd Font Mono", script 16
+01:56:05.009:   OpenType support missing for "BitstromWera Nerd Font Propo", script 16
+01:56:05.009:   OpenType support missing for "font-logos", script 16
+01:56:05.010:   OpenType support missing for "Weather Icons", script 16
+01:56:05.011:   OpenType support missing for "InconsolataGo Nerd Font", script 16
+01:56:05.012:   OpenType support missing for "InconsolataGo Nerd Font Mono", script 16
+01:56:05.013:   OpenType support missing for "InconsolataGo Nerd Font Propo", script 16
+01:56:05.014:   OpenType support missing for "InconsolataGo", script 16
+01:56:05.015:   OpenType support missing for "M+1Code Nerd Font", script 16
+01:56:05.015:   OpenType support missing for "M+1Code Nerd Font Mono", script 16
+01:56:05.016:   OpenType support missing for "M+1Code Nerd Font Propo", script 16
+01:56:05.017:   OpenType support missing for "Mononoki Nerd Font", script 16
+01:56:05.017:   OpenType support missing for "Mononoki Nerd Font Mono", script 16
+01:56:05.018:   OpenType support missing for "Mononoki Nerd Font Propo", script 16
+01:56:05.019:   OpenType support missing for "M PLUS 1 Code", script 16
+01:56:05.020:   OpenType support missing for "mononoki", script 16
+01:56:05.021:   OpenType support missing for "M PLUS Code Latin 50", script 16
+01:56:05.021:   OpenType support missing for "M+CodeLat Nerd Font", script 16
+01:56:05.022:   OpenType support missing for "M+CodeLat Nerd Font Mono", script 16
+01:56:05.023:   OpenType support missing for "M+CodeLat Nerd Font Propo", script 16
+01:56:05.023:   OpenType support missing for "M+CodeLat50 Nerd Font", script 16
+01:56:05.024:   OpenType support missing for "M+CodeLat50 Nerd Font Mono", script 16
+01:56:05.024:   OpenType support missing for "M+CodeLat50 Nerd Font Propo", script 16
+01:56:05.025:   OpenType support missing for "Share Tech Mono", script 16
+01:56:05.026:   OpenType support missing for "ShureTechMono Nerd Font", script 16
+01:56:05.026:   OpenType support missing for "ShureTechMono Nerd Font Mono", script 16
+01:56:05.027:   OpenType support missing for "ShureTechMono Nerd Font Propo", script 16
+01:56:05.028:   OpenType support missing for "AnonymicePro Nerd Font", script 16
+01:56:05.029:   OpenType support missing for "AnonymicePro Nerd Font Mono", script 16
+01:56:05.029:   OpenType support missing for "AnonymicePro Nerd Font Propo", script 16
+01:56:05.030:   OpenType support missing for "D2Coding ligature", script 16
+01:56:05.032:   OpenType support missing for "OverpassM Nerd Font", script 16
+01:56:05.033:   OpenType support missing for "OverpassM Nerd Font Mono", script 16
+01:56:05.035:   OpenType support missing for "OverpassM Nerd Font Propo", script 16
+01:56:05.036:   OpenType support missing for "Anonymous Pro", script 16
+01:56:05.037:   OpenType support missing for "Geist Mono", script 16
+01:56:05.038:   OpenType support missing for "Overpass Mono", script 16
+01:56:05.039:   OpenType support missing for "M PLUS 1", script 16
+01:56:05.040:   OpenType support missing for "M PLUS 2", script 16
+01:56:05.041:   OpenType support missing for "ProggyCleanTT CE", script 16
+01:56:05.042:   OpenType support missing for "M+1 Nerd Font", script 16
+01:56:05.042:   OpenType support missing for "M+1 Nerd Font Propo", script 16
+01:56:05.043:   OpenType support missing for "M+2 Nerd Font", script 16
+01:56:05.044:   OpenType support missing for "M+2 Nerd Font Propo", script 16
+01:56:05.045:   OpenType support missing for "OpenDyslexicM Nerd Font", script 16
+01:56:05.046:   OpenType support missing for "OpenDyslexicM Nerd Font Mono", script 16
+01:56:05.047:   OpenType support missing for "OpenDyslexicM Nerd Font Propo", script 16
+01:56:05.048:   OpenType support missing for "OpenDyslexicMono", script 16
+01:56:05.048:   OpenType support missing for "C059", script 16
+01:56:05.049:   OpenType support missing for "Nimbus Mono PS", script 16
+01:56:05.049:   OpenType support missing for "Nimbus Roman", script 16
+01:56:05.050:   OpenType support missing for "P052", script 16
+01:56:05.051:   OpenType support missing for "URW Bookman", script 16
+01:56:05.051:   OpenType support missing for "BigBlueTermPlus Nerd Font", script 16
+01:56:05.052:   OpenType support missing for "BigBlueTermPlus Nerd Font Mono", script 16
+01:56:05.052:   OpenType support missing for "BigBlueTermPlus Nerd Font Propo", script 16
+01:56:05.053:   OpenType support missing for "DroidSansM Nerd Font", script 16
+01:56:05.054:   OpenType support missing for "DroidSansM Nerd Font Mono", script 16
+01:56:05.055:   OpenType support missing for "DroidSansM Nerd Font Propo", script 16
+01:56:05.056:   OpenType support missing for "Monofur Nerd Font", script 16
+01:56:05.057:   OpenType support missing for "Monofur Nerd Font Mono", script 16
+01:56:05.057:   OpenType support missing for "Monofur Nerd Font Propo", script 16
+01:56:05.058:   OpenType support missing for "NotoMono Nerd Font", script 16
+01:56:05.059:   OpenType support missing for "NotoMono Nerd Font Mono", script 16
+01:56:05.060:   OpenType support missing for "NotoMono Nerd Font Propo", script 16
+01:56:05.061:   OpenType support missing for "SpaceMono Nerd Font", script 16
+01:56:05.061:   OpenType support missing for "SpaceMono Nerd Font Mono", script 16
+01:56:05.062:   OpenType support missing for "SpaceMono Nerd Font Propo", script 16
+01:56:05.063:   OpenType support missing for "BigBlue TerminalPlus", script 16
+01:56:05.064:   OpenType support missing for "CommitMono", script 16
+01:56:05.064:   OpenType support missing for "Droid Sans Mono for Powerline", script 16
+01:56:05.065:   OpenType support missing for "Heavy Data", script 16
+01:56:05.066:   OpenType support missing for "Lekton", script 16
+01:56:05.067:   OpenType support missing for "Martian Mono", script 16
+01:56:05.068:   OpenType support missing for "Monaspace Argon", script 16
+01:56:05.069:   OpenType support missing for "Monaspace Krypton", script 16
+01:56:05.070:   OpenType support missing for "Monaspace Neon", script 16
+01:56:05.072:   OpenType support missing for "Monaspace Radon", script 16
+01:56:05.073:   OpenType support missing for "Monaspace Xenon", script 16
+01:56:05.075:   OpenType support missing for "monofur for Powerline", script 16
+01:56:05.077:   OpenType support missing for "Noto Mono", script 16
+01:56:05.229:   OpenType support missing for "Open Sans", script 20
+01:56:05.237:   OpenType support missing for "Helvetica", script 20
+01:56:05.238:   OpenType support missing for "DejaVu Sans", script 20
+01:56:05.238:   OpenType support missing for "Noto Sans", script 20
+01:56:05.238:   OpenType support missing for "Luxi Sans", script 20
+01:56:05.239:   OpenType support missing for "Nimbus Sans", script 20
+01:56:05.240:   OpenType support missing for "URW Gothic", script 20
+01:56:05.241:   OpenType support missing for "Nimbus Sans Narrow", script 20
+01:56:05.242:   OpenType support missing for "Cascadia Mono", script 20
+01:56:05.243:   OpenType support missing for "Cascadia Code", script 20
+01:56:05.243:   OpenType support missing for "CaskaydiaCove Nerd Font", script 20
+01:56:05.244:   OpenType support missing for "CaskaydiaCove Nerd Font Mono", script 20
+01:56:05.244:   OpenType support missing for "CaskaydiaCove Nerd Font Propo", script 20
+01:56:05.245:   OpenType support missing for "HeavyData Nerd Font", script 20
+01:56:05.245:   OpenType support missing for "HeavyData Nerd Font Propo", script 20
+01:56:05.245:   OpenType support missing for "ProggyClean CE Nerd Font", script 20
+01:56:05.246:   OpenType support missing for "ProggyClean CE Nerd Font Mono", script 20
+01:56:05.246:   OpenType support missing for "ProggyClean CE Nerd Font Propo", script 20
+01:56:05.247:   OpenType support missing for "ProggyClean Nerd Font", script 20
+01:56:05.247:   OpenType support missing for "ProggyClean Nerd Font Mono", script 20
+01:56:05.248:   OpenType support missing for "ProggyClean Nerd Font Propo", script 20
+01:56:05.248:   OpenType support missing for "ProggyCleanSZ Nerd Font", script 20
+01:56:05.249:   OpenType support missing for "ProggyCleanSZ Nerd Font Mono", script 20
+01:56:05.249:   OpenType support missing for "ProggyCleanSZ Nerd Font Propo", script 20
+01:56:05.250:   OpenType support missing for "Agave Nerd Font", script 20
+01:56:05.250:   OpenType support missing for "Agave Nerd Font Mono", script 20
+01:56:05.250:   OpenType support missing for "Agave Nerd Font Propo", script 20
+01:56:05.251:   OpenType support missing for "Agave", script 20
+01:56:05.251:   OpenType support missing for "Lekton Nerd Font", script 20
+01:56:05.251:   OpenType support missing for "Lekton Nerd Font Mono", script 20
+01:56:05.252:   OpenType support missing for "Lekton Nerd Font Propo", script 20
+01:56:05.252:   OpenType support missing for "Iosevka Nerd Font", script 20
+01:56:05.253:   OpenType support missing for "Iosevka Nerd Font Mono", script 20
+01:56:05.253:   OpenType support missing for "Iosevka Nerd Font Propo", script 20
+01:56:05.254:   OpenType support missing for "IosevkaTerm Nerd Font", script 20
+01:56:05.254:   OpenType support missing for "IosevkaTerm Nerd Font Mono", script 20
+01:56:05.255:   OpenType support missing for "IosevkaTerm Nerd Font Propo", script 20
+01:56:05.256:   OpenType support missing for "Iosevka Term Slab", script 20
+01:56:05.256:   OpenType support missing for "Iosevka", script 20
+01:56:05.258:   OpenType support missing for "Iosevka Term", script 20
+01:56:05.258:   OpenType support missing for "FiraCode Nerd Font", script 20
+01:56:05.259:   OpenType support missing for "FiraCode Nerd Font Mono", script 20
+01:56:05.260:   OpenType support missing for "FiraCode Nerd Font Propo", script 20
+01:56:05.260:   OpenType support missing for "Fira Code", script 20
+01:56:05.261:   OpenType support missing for "ProFont IIx Nerd Font", script 20
+01:56:05.262:   OpenType support missing for "ProFont IIx Nerd Font Mono", script 20
+01:56:05.263:   OpenType support missing for "ProFont IIx Nerd Font Propo", script 20
+01:56:05.264:   OpenType support missing for "FontAwesome", script 20
+01:56:05.265:   OpenType support missing for "FiraMono Nerd Font", script 20
+01:56:05.265:   OpenType support missing for "FiraMono Nerd Font Mono", script 20
+01:56:05.266:   OpenType support missing for "FiraMono Nerd Font Propo", script 20
+01:56:05.267:   OpenType support missing for "Fira Mono", script 20
+01:56:05.267:   OpenType support missing for "Nerd Font File Types", script 20
+01:56:05.268:   OpenType support missing for "Hack", script 20
+01:56:05.269:   OpenType support missing for "Hack Nerd Font", script 20
+01:56:05.269:   OpenType support missing for "Hack Nerd Font Mono", script 20
+01:56:05.269:   OpenType support missing for "Hack Nerd Font Propo", script 20
+01:56:05.270:   OpenType support missing for "Overpass Nerd Font", script 20
+01:56:05.271:   OpenType support missing for "Overpass Nerd Font Propo", script 20
+01:56:05.272:   OpenType support missing for "Overpass", script 20
+01:56:05.272:   OpenType support missing for "Inconsolata Nerd Font", script 20
+01:56:05.273:   OpenType support missing for "Inconsolata Nerd Font Mono", script 20
+01:56:05.273:   OpenType support missing for "Inconsolata Nerd Font Propo", script 20
+01:56:05.274:   OpenType support missing for "3270 Nerd Font", script 20
+01:56:05.274:   OpenType support missing for "3270 Nerd Font Mono", script 20
+01:56:05.274:   OpenType support missing for "3270 Nerd Font Propo", script 20
+01:56:05.275:   OpenType support missing for "RobotoMono Nerd Font", script 20
+01:56:05.276:   OpenType support missing for "RobotoMono Nerd Font Mono", script 20
+01:56:05.276:   OpenType support missing for "RobotoMono Nerd Font Propo", script 20
+01:56:05.277:   OpenType support missing for "Inconsolata", script 20
+01:56:05.278:   OpenType support missing for "IBM 3270 Condensed", script 20
+01:56:05.280:   OpenType support missing for "IBM 3270", script 20
+01:56:05.281:   OpenType support missing for "IBM 3270 Semi-Condensed", script 20
+01:56:05.282:   OpenType support missing for "Roboto Mono", script 20
+01:56:05.283:   OpenType support missing for "Octicons Nerd Font", script 20
+01:56:05.284:   OpenType support missing for "DejaVu Math TeX Gyre", script 20
+01:56:05.284:   OpenType support missing for "DejaVu Sans Mono", script 20
+01:56:05.284:   OpenType support missing for "DejaVu Serif", script 20
+01:56:05.285:   OpenType support missing for "DejaVuSansM Nerd Font", script 20
+01:56:05.285:   OpenType support missing for "DejaVuSansM Nerd Font Mono", script 20
+01:56:05.285:   OpenType support missing for "DejaVuSansM Nerd Font Propo", script 20
+01:56:05.286:   OpenType support missing for "JetBrains Mono", script 20
+01:56:05.287:   OpenType support missing for "JetBrains Mono NL", script 20
+01:56:05.288:   OpenType support missing for "JetBrainsMono Nerd Font", script 20
+01:56:05.288:   OpenType support missing for "JetBrainsMono Nerd Font Mono", script 20
+01:56:05.289:   OpenType support missing for "JetBrainsMono Nerd Font Propo", script 20
+01:56:05.290:   OpenType support missing for "JetBrainsMonoNL Nerd Font", script 20
+01:56:05.290:   OpenType support missing for "JetBrainsMonoNL Nerd Font Mono", script 20
+01:56:05.291:   OpenType support missing for "JetBrainsMonoNL Nerd Font Propo", script 20
+01:56:05.291:   OpenType support missing for "BlexMono Nerd Font", script 20
+01:56:05.292:   OpenType support missing for "BlexMono Nerd Font Mono", script 20
+01:56:05.292:   OpenType support missing for "BlexMono Nerd Font Propo", script 20
+01:56:05.293:   OpenType support missing for "ProFontWindows Nerd Font", script 20
+01:56:05.293:   OpenType support missing for "ProFontWindows Nerd Font Mono", script 20
+01:56:05.294:   OpenType support missing for "ProFontWindows Nerd Font Propo", script 20
+01:56:05.295:   OpenType support missing for "ProFontWindows", script 20
+01:56:05.297:   OpenType support missing for "Lilex", script 20
+01:56:05.297:   OpenType support missing for "Lilex Nerd Font", script 20
+01:56:05.298:   OpenType support missing for "Lilex Nerd Font Mono", script 20
+01:56:05.299:   OpenType support missing for "Lilex Nerd Font Propo", script 20
+01:56:05.299:   OpenType support missing for "Liberation Mono", script 20
+01:56:05.300:   OpenType support missing for "Liberation Sans", script 20
+01:56:05.301:   OpenType support missing for "Liberation Serif", script 20
+01:56:05.301:   OpenType support missing for "LiterationMono Nerd Font", script 20
+01:56:05.301:   OpenType support missing for "LiterationMono Nerd Font Mono", script 20
+01:56:05.302:   OpenType support missing for "LiterationMono Nerd Font Propo", script 20
+01:56:05.302:   OpenType support missing for "LiterationSans Nerd Font", script 20
+01:56:05.303:   OpenType support missing for "LiterationSans Nerd Font Propo", script 20
+01:56:05.303:   OpenType support missing for "LiterationSerif Nerd Font", script 20
+01:56:05.304:   OpenType support missing for "LiterationSerif Nerd Font Propo", script 20
+01:56:05.304:   OpenType support missing for "Source Code Pro", script 20
+01:56:05.305:   OpenType support missing for "SauceCodePro Nerd Font", script 20
+01:56:05.305:   OpenType support missing for "SauceCodePro Nerd Font Mono", script 20
+01:56:05.306:   OpenType support missing for "SauceCodePro Nerd Font Propo", script 20
+01:56:05.307:   OpenType support missing for "Hasklug Nerd Font", script 20
+01:56:05.307:   OpenType support missing for "Hasklug Nerd Font Mono", script 20
+01:56:05.308:   OpenType support missing for "Hasklug Nerd Font Propo", script 20
+01:56:05.309:   OpenType support missing for "Hasklig", script 20
+01:56:05.310:   OpenType support missing for "Meslo LG L for Powerline", script 20
+01:56:05.311:   OpenType support missing for "Meslo LG L DZ for Powerline", script 20
+01:56:05.313:   OpenType support missing for "Meslo LG M for Powerline", script 20
+01:56:05.314:   OpenType support missing for "Meslo LG M DZ for Powerline", script 20
+01:56:05.316:   OpenType support missing for "Meslo LG S for Powerline", script 20
+01:56:05.317:   OpenType support missing for "Meslo LG S DZ for Powerline", script 20
+01:56:05.318:   OpenType support missing for "Noto Sans Mono", script 20
+01:56:05.319:   OpenType support missing for "Noto Serif", script 20
+01:56:05.320:   OpenType support missing for "GoMono Nerd Font", script 20
+01:56:05.320:   OpenType support missing for "GoMono Nerd Font Mono", script 20
+01:56:05.321:   OpenType support missing for "GoMono Nerd Font Propo", script 20
+01:56:05.322:   OpenType support missing for "Go Mono", script 20
+01:56:05.322:   OpenType support missing for "IBM Plex Mono", script 20
+01:56:05.323:   OpenType support missing for "OpenDyslexicAlt Nerd Font", script 20
+01:56:05.324:   OpenType support missing for "OpenDyslexicAlt Nerd Font Propo", script 20
+01:56:05.325:   OpenType support missing for "OpenDyslexic Nerd Font", script 20
+01:56:05.326:   OpenType support missing for "OpenDyslexic Nerd Font Propo", script 20
+01:56:05.327:   OpenType support missing for "OpenDyslexicAlta", script 20
+01:56:05.329:   OpenType support missing for "OpenDyslexic", script 20
+01:56:05.329:   OpenType support missing for "D050000L", script 20
+01:56:05.330:   OpenType support missing for "Standard Symbols PS", script 20
+01:56:05.331:   OpenType support missing for "CodeNewRoman Nerd Font", script 20
+01:56:05.332:   OpenType support missing for "CodeNewRoman Nerd Font Mono", script 20
+01:56:05.332:   OpenType support missing for "CodeNewRoman Nerd Font Propo", script 20
+01:56:05.333:   OpenType support missing for "Hurmit Nerd Font", script 20
+01:56:05.334:   OpenType support missing for "Hurmit Nerd Font Mono", script 20
+01:56:05.334:   OpenType support missing for "Hurmit Nerd Font Propo", script 20
+01:56:05.335:   OpenType support missing for "NotoSans Nerd Font", script 20
+01:56:05.336:   OpenType support missing for "NotoSans Nerd Font Propo", script 20
+01:56:05.337:   OpenType support missing for "NotoSansM Nerd Font", script 20
+01:56:05.337:   OpenType support missing for "NotoSansM Nerd Font Mono", script 20
+01:56:05.338:   OpenType support missing for "NotoSansM Nerd Font Propo", script 20
+01:56:05.339:   OpenType support missing for "NotoSerif Nerd Font", script 20
+01:56:05.339:   OpenType support missing for "NotoSerif Nerd Font Propo", script 20
+01:56:05.340:   OpenType support missing for "iMWritingDuo Nerd Font", script 20
+01:56:05.341:   OpenType support missing for "iMWritingDuo Nerd Font Propo", script 20
+01:56:05.342:   OpenType support missing for "iMWritingMono Nerd Font", script 20
+01:56:05.343:   OpenType support missing for "iMWritingMono Nerd Font Mono", script 20
+01:56:05.344:   OpenType support missing for "iMWritingMono Nerd Font Propo", script 20
+01:56:05.345:   OpenType support missing for "iMWritingQuat Nerd Font", script 20
+01:56:05.346:   OpenType support missing for "iMWritingQuat Nerd Font Propo", script 20
+01:56:05.347:   OpenType support missing for "Bitstream Vera Sans Mono", script 20
+01:56:05.349:   OpenType support missing for "Code New Roman", script 20
+01:56:05.350:   OpenType support missing for "Hermit", script 20
+01:56:05.351:   OpenType support missing for "iA Writer Duo S", script 20
+01:56:05.352:   OpenType support missing for "iA Writer Mono S", script 20
+01:56:05.352:   OpenType support missing for "iA Writer Quattro S", script 20
+01:56:05.353:   OpenType support missing for "FantasqueSansM Nerd Font", script 20
+01:56:05.353:   OpenType support missing for "FantasqueSansM Nerd Font Mono", script 20
+01:56:05.354:   OpenType support missing for "FantasqueSansM Nerd Font Propo", script 20
+01:56:05.355:   OpenType support missing for "Fantasque Sans Mono", script 20
+01:56:05.355:   OpenType support missing for "VictorMono Nerd Font", script 20
+01:56:05.356:   OpenType support missing for "VictorMono Nerd Font Mono", script 20
+01:56:05.357:   OpenType support missing for "VictorMono Nerd Font Propo", script 20
+01:56:05.358:   OpenType support missing for "Victor Mono", script 20
+01:56:05.358:   OpenType support missing for "Arimo", script 20
+01:56:05.359:   OpenType support missing for "Arimo Nerd Font", script 20
+01:56:05.359:   OpenType support missing for "Arimo Nerd Font Propo", script 20
+01:56:05.360:   OpenType support missing for "0xProto", script 20
+01:56:05.361:   OpenType support missing for "ComicShannsMono Nerd Font", script 20
+01:56:05.362:   OpenType support missing for "ComicShannsMono Nerd Font Mono", script 20
+01:56:05.362:   OpenType support missing for "ComicShannsMono Nerd Font Propo", script 20
+01:56:05.363:   OpenType support missing for "Tinos Nerd Font", script 20
+01:56:05.365:   OpenType support missing for "Tinos Nerd Font Propo", script 20
+01:56:05.366:   OpenType support missing for "Tinos", script 20
+01:56:05.367:   OpenType support missing for "Cousine", script 20
+01:56:05.368:   OpenType support missing for "Cousine Nerd Font", script 20
+01:56:05.369:   OpenType support missing for "Cousine Nerd Font Mono", script 20
+01:56:05.369:   OpenType support missing for "Cousine Nerd Font Propo", script 20
+01:56:05.370:   OpenType support missing for "MesloLGL Nerd Font", script 20
+01:56:05.371:   OpenType support missing for "MesloLGL Nerd Font Mono", script 20
+01:56:05.372:   OpenType support missing for "MesloLGL Nerd Font Propo", script 20
+01:56:05.373:   OpenType support missing for "MesloLGLDZ Nerd Font", script 20
+01:56:05.373:   OpenType support missing for "MesloLGLDZ Nerd Font Mono", script 20
+01:56:05.374:   OpenType support missing for "MesloLGLDZ Nerd Font Propo", script 20
+01:56:05.375:   OpenType support missing for "MesloLGM Nerd Font", script 20
+01:56:05.375:   OpenType support missing for "MesloLGM Nerd Font Mono", script 20
+01:56:05.376:   OpenType support missing for "MesloLGM Nerd Font Propo", script 20
+01:56:05.377:   OpenType support missing for "MesloLGMDZ Nerd Font", script 20
+01:56:05.378:   OpenType support missing for "MesloLGMDZ Nerd Font Mono", script 20
+01:56:05.378:   OpenType support missing for "MesloLGMDZ Nerd Font Propo", script 20
+01:56:05.379:   OpenType support missing for "MesloLGS Nerd Font", script 20
+01:56:05.380:   OpenType support missing for "MesloLGS Nerd Font Mono", script 20
+01:56:05.380:   OpenType support missing for "MesloLGS Nerd Font Propo", script 20
+01:56:05.381:   OpenType support missing for "MesloLGSDZ Nerd Font", script 20
+01:56:05.382:   OpenType support missing for "MesloLGSDZ Nerd Font Mono", script 20
+01:56:05.384:   OpenType support missing for "MesloLGSDZ Nerd Font Propo", script 20
+01:56:05.384:   OpenType support missing for "Luxi Mono", script 20
+01:56:05.385:   OpenType support missing for "Luxi Serif", script 20
+01:56:05.385:   OpenType support missing for "DaddyTimeMono Nerd Font", script 20
+01:56:05.386:   OpenType support missing for "DaddyTimeMono Nerd Font Mono", script 20
+01:56:05.387:   OpenType support missing for "DaddyTimeMono Nerd Font Propo", script 20
+01:56:05.388:   OpenType support missing for "DaddyTimeMono", script 20
+01:56:05.389:   OpenType support missing for "IntelOne Mono", script 20
+01:56:05.389:   OpenType support missing for "BitstromWera Nerd Font", script 20
+01:56:05.390:   OpenType support missing for "BitstromWera Nerd Font Mono", script 20
+01:56:05.390:   OpenType support missing for "BitstromWera Nerd Font Propo", script 20
+01:56:05.391:   OpenType support missing for "font-logos", script 20
+01:56:05.392:   OpenType support missing for "Weather Icons", script 20
+01:56:05.392:   OpenType support missing for "InconsolataGo Nerd Font", script 20
+01:56:05.393:   OpenType support missing for "InconsolataGo Nerd Font Mono", script 20
+01:56:05.394:   OpenType support missing for "InconsolataGo Nerd Font Propo", script 20
+01:56:05.394:   OpenType support missing for "InconsolataGo", script 20
+01:56:05.395:   OpenType support missing for "M+1Code Nerd Font", script 20
+01:56:05.396:   OpenType support missing for "M+1Code Nerd Font Mono", script 20
+01:56:05.396:   OpenType support missing for "M+1Code Nerd Font Propo", script 20
+01:56:05.397:   OpenType support missing for "Mononoki Nerd Font", script 20
+01:56:05.398:   OpenType support missing for "Mononoki Nerd Font Mono", script 20
+01:56:05.398:   OpenType support missing for "Mononoki Nerd Font Propo", script 20
+01:56:05.399:   OpenType support missing for "M PLUS 1 Code", script 20
+01:56:05.400:   OpenType support missing for "mononoki", script 20
+01:56:05.401:   OpenType support missing for "M PLUS Code Latin 50", script 20
+01:56:05.402:   OpenType support missing for "M+CodeLat Nerd Font", script 20
+01:56:05.403:   OpenType support missing for "M+CodeLat Nerd Font Mono", script 20
+01:56:05.404:   OpenType support missing for "M+CodeLat Nerd Font Propo", script 20
+01:56:05.406:   OpenType support missing for "M+CodeLat50 Nerd Font", script 20
+01:56:05.407:   OpenType support missing for "M+CodeLat50 Nerd Font Mono", script 20
+01:56:05.408:   OpenType support missing for "M+CodeLat50 Nerd Font Propo", script 20
+01:56:05.409:   OpenType support missing for "Share Tech Mono", script 20
+01:56:05.409:   OpenType support missing for "ShureTechMono Nerd Font", script 20
+01:56:05.410:   OpenType support missing for "ShureTechMono Nerd Font Mono", script 20
+01:56:05.411:   OpenType support missing for "ShureTechMono Nerd Font Propo", script 20
+01:56:05.411:   OpenType support missing for "AnonymicePro Nerd Font", script 20
+01:56:05.412:   OpenType support missing for "AnonymicePro Nerd Font Mono", script 20
+01:56:05.412:   OpenType support missing for "AnonymicePro Nerd Font Propo", script 20
+01:56:05.413:   OpenType support missing for "D2Coding ligature", script 20
+01:56:05.414:   OpenType support missing for "OverpassM Nerd Font", script 20
+01:56:05.415:   OpenType support missing for "OverpassM Nerd Font Mono", script 20
+01:56:05.416:   OpenType support missing for "OverpassM Nerd Font Propo", script 20
+01:56:05.417:   OpenType support missing for "Anonymous Pro", script 20
+01:56:05.418:   OpenType support missing for "Geist Mono", script 20
+01:56:05.419:   OpenType support missing for "Overpass Mono", script 20
+01:56:05.420:   OpenType support missing for "M PLUS 1", script 20
+01:56:05.421:   OpenType support missing for "M PLUS 2", script 20
+01:56:05.421:   OpenType support missing for "ProggyCleanTT CE", script 20
+01:56:05.422:   OpenType support missing for "M+1 Nerd Font", script 20
+01:56:05.423:   OpenType support missing for "M+1 Nerd Font Propo", script 20
+01:56:05.424:   OpenType support missing for "M+2 Nerd Font", script 20
+01:56:05.425:   OpenType support missing for "M+2 Nerd Font Propo", script 20
+01:56:05.426:   OpenType support missing for "OpenDyslexicM Nerd Font", script 20
+01:56:05.427:   OpenType support missing for "OpenDyslexicM Nerd Font Mono", script 20
+01:56:05.429:   OpenType support missing for "OpenDyslexicM Nerd Font Propo", script 20
+01:56:05.430:   OpenType support missing for "OpenDyslexicMono", script 20
+01:56:05.431:   OpenType support missing for "C059", script 20
+01:56:05.432:   OpenType support missing for "Nimbus Mono PS", script 20
+01:56:05.432:   OpenType support missing for "Nimbus Roman", script 20
+01:56:05.433:   OpenType support missing for "P052", script 20
+01:56:05.433:   OpenType support missing for "URW Bookman", script 20
+01:56:05.434:   OpenType support missing for "BigBlueTermPlus Nerd Font", script 20
+01:56:05.435:   OpenType support missing for "BigBlueTermPlus Nerd Font Mono", script 20
+01:56:05.435:   OpenType support missing for "BigBlueTermPlus Nerd Font Propo", script 20
+01:56:05.436:   OpenType support missing for "DroidSansM Nerd Font", script 20
+01:56:05.437:   OpenType support missing for "DroidSansM Nerd Font Mono", script 20
+01:56:05.437:   OpenType support missing for "DroidSansM Nerd Font Propo", script 20
+01:56:05.438:   OpenType support missing for "Monofur Nerd Font", script 20
+01:56:05.439:   OpenType support missing for "Monofur Nerd Font Mono", script 20
+01:56:05.440:   OpenType support missing for "Monofur Nerd Font Propo", script 20
+01:56:05.440:   OpenType support missing for "NotoMono Nerd Font", script 20
+01:56:05.441:   OpenType support missing for "NotoMono Nerd Font Mono", script 20
+01:56:05.442:   OpenType support missing for "NotoMono Nerd Font Propo", script 20
+01:56:05.443:   OpenType support missing for "SpaceMono Nerd Font", script 20
+01:56:05.444:   OpenType support missing for "SpaceMono Nerd Font Mono", script 20
+01:56:05.445:   OpenType support missing for "SpaceMono Nerd Font Propo", script 20
+01:56:05.446:   OpenType support missing for "BigBlue TerminalPlus", script 20
+01:56:05.447:   OpenType support missing for "CommitMono", script 20
+01:56:05.448:   OpenType support missing for "Droid Sans Mono for Powerline", script 20
+01:56:05.450:   OpenType support missing for "Heavy Data", script 20
+01:56:05.451:   OpenType support missing for "Lekton", script 20
+01:56:05.452:   OpenType support missing for "Martian Mono", script 20
+01:56:05.453:   OpenType support missing for "Monaspace Argon", script 20
+01:56:05.454:   OpenType support missing for "Monaspace Krypton", script 20
+01:56:05.455:   OpenType support missing for "Monaspace Neon", script 20
+01:56:05.456:   OpenType support missing for "Monaspace Radon", script 20
+01:56:05.457:   OpenType support missing for "Monaspace Xenon", script 20
+01:56:05.458:   OpenType support missing for "monofur for Powerline", script 20
+01:56:05.459:   OpenType support missing for "Noto Mono", script 20
+01:56:23.724: Settings changed (outputs)
+01:56:23.724: ------------------------------------------------
+01:56:28.286: ---------------------------------
+01:56:28.286: [x264 encoder: 'advanced_video_recording'] preset: veryfast
+01:56:28.286: [x264 encoder: 'advanced_video_recording'] settings:
+01:56:28.286: 	rate_control: CBR
+01:56:28.286: 	bitrate:      2500
+01:56:28.286: 	buffer size:  2500
+01:56:28.286: 	crf:          23
+01:56:28.286: 	fps_num:      48
+01:56:28.286: 	fps_den:      1
+01:56:28.286: 	width:        1920
+01:56:28.286: 	height:       1080
+01:56:28.286: 	keyint:       250
+01:56:28.286: 
+01:56:28.298: ---------------------------------
+01:56:28.298: [FFmpeg aac encoder: 'Track1'] bitrate: 160, channels: 2, channel_layout: 3
+01:56:28.298: 
+01:56:28.350: ==== Recording Start ===============================================
+01:56:28.350: [ffmpeg muxer: 'adv_file_output'] Writing file '/home/sato/2024-07-13 01-56-28.mp4'...
+01:56:37.022: [ffmpeg muxer: 'adv_file_output'] Output of file '/home/sato/2024-07-13 01-56-28.mp4' stopped
+01:56:37.022: Output 'adv_file_output': stopping
+01:56:37.022: Output 'adv_file_output': Total frames output: 391
+01:56:37.022: Output 'adv_file_output': Total drawn frames: 416
+01:56:37.022: ==== Recording Stop ================================================
+01:57:15.405: Settings changed (outputs)
+01:57:15.405: ------------------------------------------------
+01:57:25.170: ==== Shutting down ==================================================
+01:57:25.175: pulse-input: Stopped recording from 'alsa_output.pci-0000_00_1f.3.analog-stereo.monitor'
+01:57:25.176: pulse-input: Got 3398 packets with 4077600 frames
+01:57:25.176: pulse-input: Stopped recording from 'alsa_input.pci-0000_00_1f.3.analog-stereo'
+01:57:25.176: pulse-input: Got 3398 packets with 4077600 frames
+01:57:25.177: [pipewire] Stream 0x55d6a2571d70 state: "paused" (error: none)
+01:57:25.184: [pipewire] Stream 0x55d6a2571d70 state: "unconnected" (error: none)
+01:57:25.215: All scene data cleared
+01:57:25.215: ------------------------------------------------
+01:57:25.288: [Scripting] Total detached callbacks: 0
+01:57:25.288: Freeing OBS context data
+01:57:25.323: == Profiler Results =============================
+01:57:25.323: run_program_init: 863.819 ms
+01:57:25.323:  ┣OBSApp::AppInit: 5.479 ms
+01:57:25.323:  ┃ ┗OBSApp::InitLocale: 1.455 ms
+01:57:25.323:  ┗OBSApp::OBSInit: 763.037 ms
+01:57:25.323:    ┣obs_startup: 2.43 ms
+01:57:25.323:    ┗OBSBasic::OBSInit: 689.018 ms
+01:57:25.323:      ┣OBSBasic::InitBasicConfig: 0.106 ms
+01:57:25.323:      ┣OBSBasic::ResetAudio: 0.227 ms
+01:57:25.323:      ┣OBSBasic::ResetVideo: 94.152 ms
+01:57:25.324:      ┃ ┗obs_init_graphics: 87.286 ms
+01:57:25.324:      ┃   ┗shader compilation: 35.959 ms
+01:57:25.324:      ┣OBSBasic::InitOBSCallbacks: 0.003 ms
+01:57:25.324:      ┣OBSBasic::InitHotkeys: 0.026 ms
+01:57:25.324:      ┣obs_load_all_modules2: 433.646 ms
+01:57:25.324:      ┃ ┣obs_init_module(decklink-captions.so): 0 ms
+01:57:25.324:      ┃ ┣obs_init_module(decklink-output-ui.so): 0 ms
+01:57:25.324:      ┃ ┣obs_init_module(decklink.so): 0.095 ms
+01:57:25.324:      ┃ ┣obs_init_module(frontend-tools.so): 93.658 ms
+01:57:25.324:      ┃ ┣obs_init_module(image-source.so): 0.013 ms
+01:57:25.324:      ┃ ┣obs_init_module(linux-alsa.so): 0.002 ms
+01:57:25.324:      ┃ ┣obs_init_module(linux-capture.so): 0 ms
+01:57:25.324:      ┃ ┣obs_init_module(linux-jack.so): 0.006 ms
+01:57:25.324:      ┃ ┣obs_init_module(linux-pipewire.so): 22.321 ms
+01:57:25.324:      ┃ ┣obs_init_module(linux-pulseaudio.so): 0.002 ms
+01:57:25.324:      ┃ ┣obs_init_module(linux-v4l2.so): 1.933 ms
+01:57:25.324:      ┃ ┣obs_init_module(obs-ffmpeg.so): 11.945 ms
+01:57:25.324:      ┃ ┃ ┗nvenc_check: 0.738 ms
+01:57:25.324:      ┃ ┣obs_init_module(obs-filters.so): 0.044 ms
+01:57:25.324:      ┃ ┣obs_init_module(obs-outputs.so): 0.01 ms
+01:57:25.324:      ┃ ┣obs_init_module(obs-qsv11.so): 9.249 ms
+01:57:25.324:      ┃ ┣obs_init_module(obs-transitions.so): 0.018 ms
+01:57:25.324:      ┃ ┣obs_init_module(obs-webrtc.so): 0.012 ms
+01:57:25.324:      ┃ ┣obs_init_module(obs-x264.so): 0.003 ms
+01:57:25.324:      ┃ ┣obs_init_module(rtmp-services.so): 1.526 ms
+01:57:25.324:      ┃ ┣obs_init_module(text-freetype2.so): 0.025 ms
+01:57:25.324:      ┃ ┗obs_init_module(vlc-video.so): 0.183 ms
+01:57:25.324:      ┣OBSBasic::InitService: 2.783 ms
+01:57:25.324:      ┣OBSBasic::ResetOutputs: 0.327 ms
+01:57:25.324:      ┣OBSBasic::CreateHotkeys: 0.042 ms
+01:57:25.324:      ┣OBSBasic::InitPrimitives: 0.242 ms
+01:57:25.324:      ┗OBSBasic::Load: 38.257 ms
+01:57:25.324: obs_hotkey_thread(25 ms): min=0 ms, median=0.001 ms, max=0.042 ms, 99th percentile=0.002 ms, 100% below 25 ms
+01:57:25.324: audio_thread(Audio): min=0.009 ms, median=0.076 ms, max=5.341 ms, 99th percentile=1.046 ms
+01:57:25.324:  ┗receive_audio: min=0.003 ms, median=0.601 ms, max=4.661 ms, 99th percentile=1.482 ms, 0.102117 calls per parent call
+01:57:25.324:    ┣buffer_audio: min=0.001 ms, median=0.001 ms, max=0.019 ms, 99th percentile=0.004 ms
+01:57:25.324:    ┗do_encode: min=0.046 ms, median=0.595 ms, max=4.654 ms, 99th percentile=1.477 ms
+01:57:25.324:      ┣encode(Track1): min=0.04 ms, median=0.581 ms, max=1.832 ms, 99th percentile=0.987 ms
+01:57:25.324:      ┗send_packet: min=0.002 ms, median=0.009 ms, max=3.891 ms, 99th percentile=0.05 ms
+01:57:25.324: obs_graphics_thread(20.8333 ms): min=0.049 ms, median=0.568 ms, max=29.915 ms, 99th percentile=2.641 ms, 99.9756% below 20.833 ms
+01:57:25.324:  ┣tick_sources: min=0 ms, median=0.013 ms, max=0.178 ms, 99th percentile=0.029 ms
+01:57:25.324:  ┣output_frame: min=0.027 ms, median=0.291 ms, max=3.512 ms, 99th percentile=1.296 ms
+01:57:25.324:  ┃ ┣gs_context(video->graphics): min=0.027 ms, median=0.29 ms, max=2.534 ms, 99th percentile=0.612 ms
+01:57:25.324:  ┃ ┃ ┣render_video: min=0.019 ms, median=0.133 ms, max=2.159 ms, 99th percentile=0.296 ms
+01:57:25.324:  ┃ ┃ ┃ ┣render_main_texture: min=0.015 ms, median=0.125 ms, max=0.891 ms, 99th percentile=0.243 ms
+01:57:25.324:  ┃ ┃ ┃ ┣render_convert_texture: min=0.021 ms, median=0.047 ms, max=0.944 ms, 99th percentile=0.085 ms, 0.101802 calls per parent call
+01:57:25.324:  ┃ ┃ ┃ ┗stage_output_texture: min=0.014 ms, median=0.027 ms, max=1.067 ms, 99th percentile=0.049 ms, 0.101802 calls per parent call
+01:57:25.324:  ┃ ┃ ┣gs_flush: min=0.004 ms, median=0.134 ms, max=0.959 ms, 99th percentile=0.228 ms
+01:57:25.324:  ┃ ┃ ┗download_frame: min=0 ms, median=0.106 ms, max=0.842 ms, 99th percentile=0.19 ms, 0.101802 calls per parent call
+01:57:25.324:  ┃ ┗output_video_data: min=0.289 ms, median=0.545 ms, max=3.075 ms, 99th percentile=2.093 ms, 0.101559 calls per parent call
+01:57:25.324:  ┗render_displays: min=0.002 ms, median=0.213 ms, max=29.801 ms, 99th percentile=0.962 ms
+01:57:25.324: OBSBasic::ResetOutputs: min=0.299 ms, median=0 ms, max=0.37 ms, 99th percentile=0.37 ms
+01:57:25.324: video_thread(video): min=1.365 ms, median=2.707 ms, max=48.637 ms, 99th percentile=6.165 ms
+01:57:25.324:  ┗receive_video: min=1.364 ms, median=2.704 ms, max=48.635 ms, 99th percentile=6.161 ms
+01:57:25.324:    ┗do_encode: min=1.363 ms, median=2.703 ms, max=48.633 ms, 99th percentile=6.159 ms
+01:57:25.324:      ┣encode(advanced_video_recording): min=1.355 ms, median=2.677 ms, max=48.619 ms, 99th percentile=6.156 ms
+01:57:25.324:      ┗send_packet: min=0.006 ms, median=0.014 ms, max=0.181 ms, 99th percentile=0.137 ms, 0.940048 calls per parent call
+01:57:25.324: =================================================
+01:57:25.324: == Profiler Time Between Calls ==================
+01:57:25.324: obs_hotkey_thread(25 ms): min=25.024 ms, median=25.089 ms, max=28.774 ms, 99.6485% within ±2% of 25 ms (0% lower, 0.351494% higher)
+01:57:25.324: obs_graphics_thread(20.8333 ms): min=11.811 ms, median=20.833 ms, max=29.927 ms, 99.3179% within ±2% of 20.833 ms (0.341048% lower, 0.341048% higher)
+01:57:25.324: =================================================
+01:57:25.342: Number of memory leaks: 0

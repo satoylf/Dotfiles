@@ -1,0 +1,137 @@
+* {
+  min-height: 0;
+  font-family: JetBrains Mono NL, JetBrainsMonoNerd Font;
+  font-size: 14px;
+  font-weight: 900;
+}
+
+window#waybar {
+  transition-property: background-color;
+  transition-duration: 0.5s;
+  background-color: transparent;
+}
+
+window#waybar.hidden {
+  opacity: 0.5;
+}
+
+#workspaces,
+#custom-grouped-modules {
+  background: #373a4e;
+  margin: 6px 0px 6px 0px;
+  padding: 0px 5px;
+  border-radius: 25px;
+  border: 0px;
+  font-style: normal;
+  opacity: 0.8;
+  font-size: 16px;
+  color: #ffffff;
+}
+
+#custom-grouped-modules > * {
+  margin: 0 5px;
+}
+
+#workspaces button {
+  padding: 1px 1px;
+  margin: 3px 3px;
+  border-radius: 15px;
+  border: 0px;
+  color: #fff;
+  background-color: #373a4e;
+  transition: all 0.2s ease-in-out;
+  opacity: 1;
+}
+
+#workspaces button.active {
+  color: #000;
+  background: #fff;
+  padding-right: 5px;
+  border-radius: 15px;
+  min-width: 40px;
+  transition: all 0.2s ease-in-out;
+  opacity: 1;
+}
+
+#clock,
+#pulseaudio,
+#battery,
+#cpu,
+#tray,
+#memory,
+#network,
+#window {
+  padding: 0px 8px;
+  margin: 6px 3px;
+  color: #e5e5e5;
+  border-radius: 12px;
+  background-color: #373a4a;
+}
+
+#custom-logo {
+  padding: 0px 12px;
+}
+
+#tray {
+  font-size: 10px;
+}
+
+#custom-sep {
+  padding: 0px;
+  color: #585b70;
+}
+
+window#waybar.empty #window {
+  background-color: transparent;
+}
+
+#cpu {
+  color: #b4befe;
+  border-radius: 0px;
+  margin: 6px 0px 6px 0px;
+}
+
+#memory {
+  color: #fab387;
+  border-radius: 12px 0px 0px 12px;
+  margin: 6px 0px 6px 0px;
+}
+
+#battery {
+  color: #a6e3a1;
+  margin: 6px 0px 6px 0px;
+  border-radius: 0px;
+}
+
+#network {
+  color: #f9e2af;
+  margin: 6px 0px 6px 0px;
+  border-radius: 0px;
+}
+
+#clock {
+  color: #cba6f7;
+  border-radius: 0px 12px 12px 0px;
+  margin: 6px 6px 6px 0px;
+}
+
+#window {
+  color: #fab387;
+  background-color: transparent;
+}
+
+#pulseaudio {
+  color: #f38ba8;
+  margin: 6px 0px 6px 0px;
+  border-radius: 0px;
+}
+
+#pulseaudio.muted {
+  color: #f38ba8;
+  margin: 6px 0px 6px 0px;
+  border-radius: 0px;
+}
+
+tooltip {
+  border-radius: 8px;
+}

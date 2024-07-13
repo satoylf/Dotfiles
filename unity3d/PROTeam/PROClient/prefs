@@ -1,0 +1,107 @@
+<unity_prefs version_major="1" version_minor="1">
+	<pref name="BikeSurfMusic" type="int">1</pref>
+	<pref name="DynamicLighting" type="int">1</pref>
+	<pref name="FPSLimit" type="int">30</pref>
+	<pref name="GameZoom" type="float">0</pref>
+	<pref name="GuiScale" type="float">0</pref>
+	<pref name="Key_BACK" type="int">55</pref>
+	<pref name="Key_BACKS" type="int">0</pref>
+	<pref name="Key_DOWN" type="int">274</pref>
+	<pref name="Key_DOWNS" type="int">115</pref>
+	<pref name="Key_HOT1" type="int">49</pref>
+	<pref name="Key_HOT1S" type="int">0</pref>
+	<pref name="Key_HOT2" type="int">50</pref>
+	<pref name="Key_HOT2S" type="int">0</pref>
+	<pref name="Key_HOT3" type="int">51</pref>
+	<pref name="Key_HOT3S" type="int">0</pref>
+	<pref name="Key_HOT4" type="int">52</pref>
+	<pref name="Key_HOT4S" type="int">0</pref>
+	<pref name="Key_HOT5" type="int">53</pref>
+	<pref name="Key_HOT5S" type="int">0</pref>
+	<pref name="Key_HOT6" type="int">54</pref>
+	<pref name="Key_HOT6S" type="int">0</pref>
+	<pref name="Key_INTERACT" type="int">32</pref>
+	<pref name="Key_INTERACTS" type="int">0</pref>
+	<pref name="Key_LEFT" type="int">276</pref>
+	<pref name="Key_LEFTS" type="int">97</pref>
+	<pref name="Key_OPENBP" type="int">98</pref>
+	<pref name="Key_OPENBPS" type="int">0</pref>
+	<pref name="Key_OPENDEX" type="int">112</pref>
+	<pref name="Key_OPENDEXS" type="int">0</pref>
+	<pref name="Key_OPENMAP" type="int">109</pref>
+	<pref name="Key_OPENMAPS" type="int">0</pref>
+	<pref name="Key_RIGHT" type="int">275</pref>
+	<pref name="Key_RIGHTS" type="int">100</pref>
+	<pref name="Key_UP" type="int">273</pref>
+	<pref name="Key_UPS" type="int">119</pref>
+	<pref name="MaxFrameQueue" type="int">2</pref>
+	<pref name="MuteMusic" type="int">1</pref>
+	<pref name="MuteOnFocusLost" type="int">1</pref>
+	<pref name="MuteSFX" type="int">1</pref>
+	<pref name="PassWordDev" type="string">Ym9tcmV0aXJvNDA5MDUx</pref>
+	<pref name="PlayBattleMusic" type="int">1</pref>
+	<pref name="SaySpeed" type="float">0.8</pref>
+	<pref name="Screenmanager Fullscreen mode" type="int">3</pref>
+	<pref name="Screenmanager Fullscreen mode Default" type="int">1</pref>
+	<pref name="Screenmanager Resolution Height" type="int">1030</pref>
+	<pref name="Screenmanager Resolution Height Default" type="int">768</pref>
+	<pref name="Screenmanager Resolution Use Native" type="int">0</pref>
+	<pref name="Screenmanager Resolution Use Native Default" type="int">1</pref>
+	<pref name="Screenmanager Resolution Width" type="int">950</pref>
+	<pref name="Screenmanager Resolution Width Default" type="int">1024</pref>
+	<pref name="Screenmanager Window Position X" type="int">5</pref>
+	<pref name="Screenmanager Window Position Y" type="int">45</pref>
+	<pref name="ShowBattle" type="int">0</pref>
+	<pref name="ShowFind Party" type="int">0</pref>
+	<pref name="SlideState" type="string">eyItU2lsdmVyIjp7IlR5cGUiOiJOb25lIiwiRGlyIjp7Ikl0ZW0xIjowLCJJdGVtMiI6MH0sIlBvcyI6eyJJdGVtMSI6MCwiSXRlbTIiOjB9LCJNYXBOYW1lIjoiIn0sIkZpbW9zLVNpbHZlciI6eyJUeXBlIjoiTm9uZSIsIkRpciI6eyJJdGVtMSI6MCwiSXRlbTIiOjB9LCJQb3MiOnsiSXRlbTEiOjQxLCJJdGVtMiI6LTEzOX0sIk1hcE5hbWUiOiJNdC4gUHlyZSBFeHRlcmlvciJ9fQ==</pref>
+	<pref name="Sound" type="float">0</pref>
+	<pref name="TermAccept" type="int">1</pref>
+	<pref name="TextureCacheSize" type="float">0.4</pref>
+	<pref name="UnitySelectMonitor" type="int">0</pref>
+	<pref name="UserNameDev" type="string">Rmltb3M=</pref>
+	<pref name="WeatherOn" type="int">1</pref>
+	<pref name="anonymizeMyEncounters" type="int">1</pref>
+	<pref name="ao" type="int">1</pref>
+	<pref name="autoRepel" type="int">0</pref>
+	<pref name="autoupdate" type="int">1</pref>
+	<pref name="avoid_last_Fimos" type="int">0</pref>
+	<pref name="br" type="int">1</pref>
+	<pref name="chatHistorySize" type="float">0.250945</pref>
+	<pref name="cs" type="int">0</pref>
+	<pref name="discordIntegration" type="int">1</pref>
+	<pref name="discordShowBattle" type="int">0</pref>
+	<pref name="discordShowMap" type="int">0</pref>
+	<pref name="fimosDevi1" type="int">951</pref>
+	<pref name="fimosDevi1B" type="int">0</pref>
+	<pref name="fimosDevi2" type="int">5</pref>
+	<pref name="fimosDevi2B" type="int">0</pref>
+	<pref name="fimosDevi3" type="int">316</pref>
+	<pref name="fimosDevi3B" type="int">0</pref>
+	<pref name="fimosDevi4" type="int">315</pref>
+	<pref name="fimosDevi4B" type="int">0</pref>
+	<pref name="fimosDevi5" type="int">0</pref>
+	<pref name="fimosDevi5B" type="int">0</pref>
+	<pref name="fimosDevi6" type="int">0</pref>
+	<pref name="fimosDevi6B" type="int">0</pref>
+	<pref name="fsm" type="int">3</pref>
+	<pref name="height" type="int">511</pref>
+	<pref name="lockRepel" type="int">0</pref>
+	<pref name="min_rating_Fimos" type="float">1</pref>
+	<pref name="mvolume" type="float">0.362081</pref>
+	<pref name="nn" type="int">1</pref>
+	<pref name="pn" type="int">1</pref>
+	<pref name="previewPoke" type="int">0</pref>
+	<pref name="refreshRate" type="int">60</pref>
+	<pref name="relativeTouch" type="int">0</pref>
+	<pref name="remember" type="int">1</pref>
+	<pref name="showDpad" type="int">0</pref>
+	<pref name="showGlobalEncounters" type="int">1</pref>
+	<pref name="sp" type="int">1</pref>
+	<pref name="swearFilter" type="int">1</pref>
+	<pref name="ts" type="int">1</pref>
+	<pref name="unity.player_session_count" type="string">Nzk=</pref>
+	<pref name="unity.player_sessionid" type="string">ODg5NTIyMTI4MzY1NTYyMzU2Nw==</pref>
+	<pref name="volume" type="float">0.339979</pref>
+	<pref name="vs" type="int">1</pref>
+	<pref name="width" type="int">949</pref>
+</unity_prefs>

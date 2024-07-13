@@ -1,0 +1,13 @@
+unmap j
+unmap k
+
+map j navigate next
+map k navigate previous
+
+# Mostrar número da página atual e total de páginas na barra de status
+set statusbar-h-padding 2
+set statusbar-v-padding 1
+set statusbar-foreground #ffffff
+set statusbar-background #1e1e2e
+set show-statusbar true
+set selection-clipboard clipboard

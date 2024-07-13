@@ -1,0 +1,34 @@
+2024-07-13T00:08:47.139Z 0: 
+
+----------------------------------------------
+2024-07-13T00:08:47.165Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.59"}, modulepath: /home/sato/.config/discord/0.0.59/modules
+2024-07-13T00:08:47.175Z 2: ✅ webContents.created web1 "index.html"
+2024-07-13T00:08:47.195Z 3: ✅ window.created win1 "discord"
+2024-07-13T00:08:47.321Z 4: ✅ webContents.did-finish-load web1
+2024-07-13T00:08:55.860Z 5: ✅ webContents.created web2 ""
+2024-07-13T00:08:55.872Z 6: ✅ window.created win2 "Discord"
+2024-07-13T00:08:57.631Z 7: ✅ webContents.did-finish-load web2
+2024-07-13T00:08:57.728Z 8: window.close win1
+2024-07-13T00:08:57.762Z 9: webContents.destroyed web1
+2024-07-13T00:08:57.767Z 10: window.closed win1
+2024-07-13T00:10:42.378Z 11: window.close win2
+2024-07-13T00:10:42.390Z 12: before-quit
+2024-07-13T00:10:42.395Z 13: window.close win2
+2024-07-13T00:10:42.403Z 14: webContents.destroyed web2
+2024-07-13T00:38:08.956Z 0: 
+
+----------------------------------------------
+2024-07-13T00:38:08.973Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.59"}, modulepath: /home/sato/.config/discord/0.0.59/modules
+2024-07-13T00:38:08.978Z 2: ✅ webContents.created web1 ""
+2024-07-13T00:38:08.982Z 3: ✅ window.created win1 "discord"
+2024-07-13T00:38:09.113Z 4: ✅ webContents.did-finish-load web1
+2024-07-13T00:38:09.406Z 5: ✅ webContents.created web2 ""
+2024-07-13T00:38:09.416Z 6: ✅ window.created win2 "Discord"
+2024-07-13T00:38:11.699Z 7: ✅ webContents.did-finish-load web2
+2024-07-13T00:38:11.796Z 8: window.close win1
+2024-07-13T00:38:11.855Z 9: webContents.destroyed web1
+2024-07-13T00:38:11.860Z 10: window.closed win1
+2024-07-13T00:38:14.293Z 11: window.close win2
+2024-07-13T00:38:14.307Z 12: before-quit
+2024-07-13T00:38:14.312Z 13: window.close win2
+2024-07-13T00:38:14.341Z 14: webContents.destroyed web2

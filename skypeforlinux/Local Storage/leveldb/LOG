@@ -1,0 +1,5 @@
+2024/07/12-21:27:52.536 48cd Reusing MANIFEST /home/sato/.config/skypeforlinux/Local Storage/leveldb/MANIFEST-000001
+2024/07/12-21:27:52.537 48cd Recovering log #102
+2024/07/12-21:27:52.541 48cd Level-0 table #106: started
+2024/07/12-21:27:52.552 48cd Level-0 table #106: 263445 bytes OK
+2024/07/12-21:27:52.562 48cd Delete type=0 #102
