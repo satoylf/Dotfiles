@@ -1,5 +1,0 @@
-2024/07/12-21:08:47.051 2c5e Reusing MANIFEST /home/sato/.config/discord/Local Storage/leveldb/MANIFEST-000001
-2024/07/12-21:08:47.052 2c5e Recovering log #92
-2024/07/12-21:08:47.052 2c5e Reusing old log /home/sato/.config/discord/Local Storage/leveldb/000092.log 
-2024/07/12-21:10:42.416 2c60 Level-0 table #97: started
-2024/07/12-21:10:42.436 2c60 Level-0 table #97: 797496 bytes OK

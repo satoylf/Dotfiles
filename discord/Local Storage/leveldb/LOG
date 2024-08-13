@@ -1,9 +1,0 @@
-2024/07/12-21:38:08.854 5583 Reusing MANIFEST /home/sato/.config/discord/Local Storage/leveldb/MANIFEST-000001
-2024/07/12-21:38:08.855 5583 Recovering log #92
-2024/07/12-21:38:08.865 5583 Level-0 table #96: started
-2024/07/12-21:38:08.907 5583 Level-0 table #96: 797496 bytes OK
-2024/07/12-21:38:08.908 5583 Recovering log #96
-2024/07/12-21:38:08.914 5583 Level-0 table #97: started
-2024/07/12-21:38:08.936 5583 Level-0 table #97: 2388537 bytes OK
-2024/07/12-21:38:08.942 5583 Delete type=0 #96
-2024/07/12-21:38:08.942 5583 Delete type=0 #92

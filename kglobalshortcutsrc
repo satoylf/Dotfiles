@@ -1,9 +1,0 @@
-[org.kde.spectacle.desktop]
-ActiveWindowScreenShot=Meta+Print,Meta+Print,Capturar a janela ativa
-CurrentMonitorScreenShot=none,none,Capturar do monitor atual
-FullScreenScreenShot=Shift+Print,Shift+Print,Capturar toda a área de trabalho
-OpenWithoutScreenshot=none,none,Iniciar o Spectacle sem fazer captura
-RectangularRegionScreenShot=Meta+Shift+Print,Meta+Shift+Print,Capturar região retangular
-WindowUnderCursorScreenShot=Meta+Ctrl+Print,Meta+Ctrl+Print,Capturar janela sob o cursor
-_k_friendly_name=Spectacle
-_launch=Print,Print,Executar o Spectacle
